@@ -8,10 +8,10 @@ create table #temp_employee1(
 	Salary int
 )
 
-select * from #temp_employee1
-
 insert into #temp_employee1
 select * from SQLTutorial..EmployeeSalary
+
+select * from #temp_employee1
 
 drop table if exists #temp_employee2
 create table #Temp_Employee2(
@@ -23,10 +23,10 @@ create table #Temp_Employee2(
 	AverageSalary int
 )
 
-select * from #Temp_Employee2
-
 insert into #temp_employee2
 select Demo.EmployeeID,Demo.FirstName, Demo.LastName, Demo.gender, COUNT(Demo.Gender) over (partition by Demo.Gender) as TotalGender, AVG(Salary) over (partition by Salary) as AVGSalary
 from SQLTutorial..EmployeeDemographics Demo
 join SQLTutorial..EmployeeSalary Sal
 on Demo.EmployeeID = Sal.EmployeeId
+
+select * from #Temp_Employee2

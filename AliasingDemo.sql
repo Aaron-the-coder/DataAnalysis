@@ -6,7 +6,7 @@ select * from EmployeeDemographics
 select FirstName as FName
 from EmployeeDemographics
 
-select FirstName FName -- Not recommended
+select FirstName FName 
 from EmployeeDemographics
 
 -- set a alias for the combination of multiple columns

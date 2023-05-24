@@ -9,6 +9,7 @@ from EmployeeDemographics
 select FirstName FName -- Not recommended
 from EmployeeDemographics
 
+-- set a alias for the combination of multiple columns
 select FirstName+' '+LastName as FullName
 from EmployeeDemographics
 

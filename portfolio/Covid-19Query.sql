@@ -64,3 +64,48 @@ from PortfolioProjects..CovidDeaths
 where continent is not null
 and new_cases is not null
 and new_cases != 0
+
+--looking at the population vs new_vaccination
+select dea.continent, dea.location, dea.date, dea.population, vacc.new_vaccinations, 
+SUM(CAST(new_vaccinations as int)) 
+over (partition by dea.location order by dea.location, dea.date) RollingVaccCount
+from PortfolioProjects..CovidDeaths dea
+join PortfolioProjects..CovidVaccination vacc
+on dea.location = vacc.location
+and dea.date = vacc.date
+where new_vaccinations is not null
+
+-- create a temp table use these data
+drop table if exists #Temp_vaccination_info
+create table #Temp_vaccination_info(
+continent varchar(50),
+location varchar(50),
+date datetime,
+population numeric,
+new_vaccination numeric,
+rolling_vacc_count numeric
+)
+
+insert into #Temp_vaccination_info
+select dea.continent, dea.location, dea.date, dea.population, vacc.new_vaccinations, 
+SUM(CAST(new_vaccinations as int)) 
+over (partition by dea.location order by dea.location, dea.date) RollingVaccCount
+from PortfolioProjects..CovidDeaths dea
+join PortfolioProjects..CovidVaccination vacc
+on dea.location = vacc.location
+and dea.date = vacc.date
+where new_vaccinations is not null
+
+select * from #Temp_vaccination_info
+
+create view VaccinationInfo as 
+select dea.continent, dea.location, dea.date, dea.population, vacc.new_vaccinations, 
+SUM(CAST(new_vaccinations as int)) 
+over (partition by dea.location order by dea.location, dea.date) RollingVaccCount
+from PortfolioProjects..CovidDeaths dea
+join PortfolioProjects..CovidVaccination vacc
+on dea.location = vacc.location
+and dea.date = vacc.date
+where new_vaccinations is not null
+
+select * from VaccinationInfo

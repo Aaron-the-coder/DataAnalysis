@@ -259,7 +259,7 @@ Starbucks,19767-199325,Forum 1,Company Owned,Sudtiroler Platz 13,Salzburg,5,AT,5
 Starbucks,25921-242984,Vienna Airport - landside (Kiosk),Licensed,Wien-Flughafen,Schwechat,9,AT,A-1300,,GMT+1:00 Europe/Vienna,16.56,48.13
 Starbucks,40206-77760,Neubaugasse,Company Owned,Neubaugasse 4,Wien,9,AT,1070,43 1 3366332507,GMT+1:00 Europe/Vienna,16.35,48.2
 Starbucks,40202-69420,Millennium City,Company Owned,Handelskai 94-96,Wien,9,AT,1200,43 1 3366332502,GMT+1:00 Europe/Vienna,16.39,48.24
-Starbucks,23739-161864,Hauptbahnhof Wien,Company Owned,Bahnhof City Wien Hauptbahnhof,Wien,9,AT,1010,4313366332530,GMT+1:00 Europe/Vienna,16.38,48.18
+Starbucks,23739-161864,Hauptbahnhof Wien,Company Owned,Bahnhof City Wien Hauptbahnhof,Wien,9,AT,1010,4.31337E+12,GMT+1:00 Europe/Vienna,16.38,48.18
 Starbucks,15134-158024,Braunerstrasse,Company Owned,Braunerstrasse 2,Wien,9,AT,1010,431336633 2524,GMT+1:00 Europe/Vienna,16.37,48.21
 Starbucks,40213-99693,Michaelerplatz,Company Owned,Reitschulgasse 4,Wien,9,AT,1010,43 1 3366332514,GMT+1:00 Europe/Vienna,16.37,48.21
 Starbucks,40212-96779,AKH Allgemeines Krankenhaus,Company Owned,Waehringer Guertel 18-20,Wien,9,AT,1090,43 1 3366332512,GMT+1:00 Europe/Vienna,16.35,48.22
@@ -267,9 +267,9 @@ Starbucks,40204-76700,Mariahilfer Strasse,Company Owned,Mariahilfer Strasse 23-2
 Starbucks,31077-103980,Rotenturmstrasse,Company Owned,Rotenturmstrasse 22,Wien,9,AT,1010,43 1 3366332515,GMT+1:00 Europe/Vienna,16.38,48.21
 Starbucks,32495-133884,Invalidenstrasse,Company Owned,Invalidenstrasse 11,Wien,9,AT,1030,43 1 3366332521,GMT+1:00 Europe/Vienna,16.39,48.21
 Starbucks,13074-150484,Donauzentrum,Company Owned,Wagramer Strasse 81,Wien,9,AT,1220,13366332523,GMT+1:00 Europe/Vienna,16.43,48.24
-Starbucks,19247-200084,Westbahnhof,Company Owned,Bahnhof City Wien West,Wien,9,AT,1150,4313366332527,GMT+1:00 Europe/Vienna,16.34,48.2
-Starbucks,17786-183845,Schottengasse,Company Owned,Schottengasse 9,Wien,9,AT,1010,4313366332525,GMT+1:00 Europe/Vienna,16.36,48.21
-Starbucks,32492-120288,Karlsplatzpassage,Company Owned,Karlsplatz Hauptpassage,Wien,9,AT,1010,4313366332520,GMT+1:00 Europe/Vienna,16.37,48.2
+Starbucks,19247-200084,Westbahnhof,Company Owned,Bahnhof City Wien West,Wien,9,AT,1150,4.31337E+12,GMT+1:00 Europe/Vienna,16.34,48.2
+Starbucks,17786-183845,Schottengasse,Company Owned,Schottengasse 9,Wien,9,AT,1010,4.31337E+12,GMT+1:00 Europe/Vienna,16.36,48.21
+Starbucks,32492-120288,Karlsplatzpassage,Company Owned,Karlsplatz Hauptpassage,Wien,9,AT,1010,4.31337E+12,GMT+1:00 Europe/Vienna,16.37,48.2
 Starbucks,49778-271255,Manly,Licensed,110-112 The Corso,Manly,NSW,AU,2095,,GMT+10:00 Australia/Sydney,151.29,-33.8
 Starbucks,25291-240407,Mount Druitt,Licensed,Carlisle Avenue,Mt Druitt,NSW,AU,2770,,GMT+10:00 Australia/Sydney,150.82,-33.77
 Starbucks,48100-261428,Westfield Parramatta,Licensed,"Shop 2174, Level 2, Westfield Parramatta, 159-175 Church St",Parramatta,NSW,AU,2150,,GMT+10:00 Australia/Sydney,151,-33.82
@@ -295,10 +295,10 @@ Starbucks,49790-270953,Galleria - Melbourne,Licensed,385 Bourke St,Melbourne,VIC
 Starbucks,15476-160864,Paseo Herencia,Licensed,J.E. Irausquin Blvd 382A,Noord,AW,AW,,(297)523-6753,GMT-04:00 America/Oranjestad,-70.04,12.57
 Starbucks,3635-146029,Renaissance Seaport Marketplace,Licensed,L.G.Smith Blvd. 9,Oranjestad,AW,AW,,(297)523-6751,GMT-04:00 America/Oranjestad,-70.04,12.52
 Starbucks,3634-146030,Renaissance Mall - Aruba,Licensed,L.G. Smith Boulevard 82,Oranjestad,AW,AW,,(297)523-6750,GMT-04:00 America/Oranjestad,-70.04,12.52
-Starbucks,28752-250830,Mall 28,Licensed,"45 Azadlig Avenue, No K3.08",Baku,BA,AZ,,994124048362,GMT+4:00 Asia/Baku,49.85,40.38
-Starbucks,25822-240094,Port Baku,Licensed,"153 Neftciler Avenue, Az, 1010",Baku,BA,AZ,0,994124048872,GMT+4:00 Asia/Baku,49.86,40.38
-Starbucks,28135-250266,Ganjlik Mall,Licensed,"Fatali Khoyski Avenue, Ganjlik Shopping Center",Narimonov,BA,AZ,0,994124048498,GMT+4:00 Asia/Baku,49.85,40.4
-Starbucks,29399-253484,TARGOVI,Licensed,"8 Mammad Amin Rasulzade, Rasulzade Street Sebail Baku",Baku,SAB,AZ,0,994124048109,GMT+4:00 Asia/Baku,48.9,39.95
+Starbucks,28752-250830,Mall 28,Licensed,"45 Azadlig Avenue, No K3.08",Baku,BA,AZ,,9.94124E+11,GMT+4:00 Asia/Baku,49.85,40.38
+Starbucks,25822-240094,Port Baku,Licensed,"153 Neftciler Avenue, Az, 1010",Baku,BA,AZ,0,9.94124E+11,GMT+4:00 Asia/Baku,49.86,40.38
+Starbucks,28135-250266,Ganjlik Mall,Licensed,"Fatali Khoyski Avenue, Ganjlik Shopping Center",Narimonov,BA,AZ,0,9.94124E+11,GMT+4:00 Asia/Baku,49.85,40.4
+Starbucks,29399-253484,TARGOVI,Licensed,"8 Mammad Amin Rasulzade, Rasulzade Street Sebail Baku",Baku,SAB,AZ,0,9.94124E+11,GMT+4:00 Asia/Baku,48.9,39.95
 Starbucks,48462-260556,Brussels Schuman Metro Station,Licensed,"Rue de la Loi, Rond-point Robert Schuman",Brussels,BE,BE,1000,,GMT+1:00 Europe/Brussels,4.38,50.84
 Starbucks,26401-240667,Brussels Louise Metro Station,Licensed,Guldenvlieslaan,Brussels,BE,BE,1000,,GMT+1:00 Europe/Brussels,4.35,50.83
 Starbucks,26399-240668,Brussels - Gare du Midi (M),Licensed,Frankrijkstraat & Fonsnylaan,Brussels,BE,BE,1060,,GMT+1:00 Europe/Brussels,4.33,50.83
@@ -1948,7 +1948,7 @@ Starbucks,32300-117551,Centralbahnplatz,Company Owned,Centralbahnplatz 14,Basel,
 Starbucks,31533-106105,Freie Strasse,Company Owned,Freie Strasse 89,Basel,BS,CH,4051,41 61 271 09 20,GMT+1:00 Europe/Zurich,7.59,47.56
 Starbucks,16443-164504,Fribourg,Company Owned,Rue de Romont 3,Fribourg,FR,CH,1700,41263214618,GMT+1:00 Europe/Zurich,7.16,46.81
 Starbucks,48835-265405,Gare de Fribourg (CS),Licensed,Place de la Gare 1,Fribourg,FR,CH,1700,,GMT+1:00 Europe/Zurich,7.15,46.8
-Starbucks,19993-154429,RailCity Geneve,Company Owned,Place de Cornavin 7,Geneve,GE,CH,1201,410227320012,GMT+1:00 Europe/Zurich,6.14,46.21
+Starbucks,19993-154429,RailCity Geneve,Company Owned,Place de Cornavin 7,Geneve,GE,CH,1201,4.10227E+11,GMT+1:00 Europe/Zurich,6.14,46.21
 Starbucks,30631-98035,Cours de Rive,Company Owned,Cours de Rive 11,Geneve,GE,CH,1204,41 22 700 56 19,GMT+1:00 Europe/Paris,6.15,46.2
 Starbucks,40024-96840,Quai des Bergues,Company Owned,Quai des Bergues 23,Geneve,GE,CH,1201,41 22 732 43 62,GMT+1:00 Europe/Paris,6.15,46.21
 Starbucks,19171-198946,Rue Cornavin,Company Owned,Rue de Cornavin 2,Geneve,GE,CH,1201,41227311512,GMT+1:00 Europe/Zurich,6.14,46.21
@@ -4859,194 +4859,194 @@ Starbucks,30864-100023,Lemessos Enaerios,Licensed,"3, Makarioy Ave.,, Enaerios,"
 Starbucks,31688-108574,Lemessos Enaerios,Licensed,"Megaro Anexartisias,, 187, Anexartisias Str.,",Limassol,2,CY,3040,,GMT+2:00 Asia/Nicosia,33.04,34.68
 Starbucks,42805-98443,Larnaca Foinikoudes,Licensed,"18,Athinon Str,, Finikoudes Promenade",Larnaca,3,CY,6023,,GMT+2:00 Asia/Nicosia,33.64,34.91
 Starbucks,42806-100022,Kato Pafos,Licensed,"1 & 2,Semeli House, Posidonos Ave.,",Paphos,5,CY,8042,,GMT+2:00 Asia/Nicosia,32.42,34.76
-Starbucks,48016-261047,Brno Campus,Joint Venture,"Netroufalky 770, Campus Square Shopping mall",Brno,JM,CZ,625 00,420235013552,GMT+1:00 Europe/Prague,16.57,49.18
-Starbucks,24480-220065,Brno Olympia,Joint Venture,"U Dalnice 777, OC Vaňkovka Brno",Brno,JM,CZ,664042,420235013540,GMT+1:00 Europe/Prague,16.63,49.14
-Starbucks,21083-202905,Brno Vaňkovka,Joint Venture,Ve Vaňkovce 1,Brno,JM,CZ,,420235013543,GMT+1:00 Europe/Prague,16.61,49.19
-Starbucks,28747-250828,Brno náměstí Svobody,Joint Venture,Náměstí Svobody 103/5,Brno,JM,CZ,602 00,420235013549,GMT+1:00 Europe/Prague,16.61,49.2
-Starbucks,16987-157524,Ostrava Nová Karolina,Joint Venture,Jantarová 3344/4,Ostrava,MO,CZ,702 00,420235013530,GMT+1:00 Europe/Prague,18.29,49.83
-Starbucks,19488-185284,Ostrava Avion,Joint Venture,"Rudná 3114/114, Pražský Hrad",Ostrava,MO,CZ,700 30,420235013538,GMT+1:00 Europe/Prague,18.23,49.8
-Starbucks,16967-177664,Pražský Hrad,Joint Venture,Hradčanské náměstí - Kajetánka,Prague,PR,CZ,118 00,420235013536,GMT+1:00 Europe/Prague,14.4,50.09
-Starbucks,25083-233050,SC Chodov1,Joint Venture,"Roztylska 2321/19, Praha 4",Prague,PR,CZ,148 00,420235013508,GMT+1:00 Europe/Prague,14.49,50.03
+Starbucks,48016-261047,Brno Campus,Joint Venture,"Netroufalky 770, Campus Square Shopping mall",Brno,JM,CZ,625 00,4.20235E+11,GMT+1:00 Europe/Prague,16.57,49.18
+Starbucks,24480-220065,Brno Olympia,Joint Venture,"U Dalnice 777, OC Vaňkovka Brno",Brno,JM,CZ,664042,4.20235E+11,GMT+1:00 Europe/Prague,16.63,49.14
+Starbucks,21083-202905,Brno Vaňkovka,Joint Venture,Ve Vaňkovce 1,Brno,JM,CZ,,4.20235E+11,GMT+1:00 Europe/Prague,16.61,49.19
+Starbucks,28747-250828,Brno náměstí Svobody,Joint Venture,Náměstí Svobody 103/5,Brno,JM,CZ,602 00,4.20235E+11,GMT+1:00 Europe/Prague,16.61,49.2
+Starbucks,16987-157524,Ostrava Nová Karolina,Joint Venture,Jantarová 3344/4,Ostrava,MO,CZ,702 00,4.20235E+11,GMT+1:00 Europe/Prague,18.29,49.83
+Starbucks,19488-185284,Ostrava Avion,Joint Venture,"Rudná 3114/114, Pražský Hrad",Ostrava,MO,CZ,700 30,4.20235E+11,GMT+1:00 Europe/Prague,18.23,49.8
+Starbucks,16967-177664,Pražský Hrad,Joint Venture,Hradčanské náměstí - Kajetánka,Prague,PR,CZ,118 00,4.20235E+11,GMT+1:00 Europe/Prague,14.4,50.09
+Starbucks,25083-233050,SC Chodov1,Joint Venture,"Roztylska 2321/19, Praha 4",Prague,PR,CZ,148 00,4.20235E+11,GMT+1:00 Europe/Prague,14.49,50.03
 Starbucks,48232-254737,Golden Angel,Joint Venture,"Plze ska 8, 150 00 Prague 5",Prague,PR,CZ,150 00,,GMT+1:00 Europe/Prague,14.4,50.07
-Starbucks,12733-149006,Muzeum,Joint Venture,Václavské náměstí 57,Praha,PR,CZ,110 00,420224000000,GMT+1:00 Europe/Prague,14.43,50.08
-Starbucks,1722-137168,Můstek,Joint Venture,Václavské náměstí 40,Praha,PR,CZ,110 00,420235013517,GMT+1:00 Europe/Prague,14.43,50.08
-Starbucks,32313-123443,Palladium Kiosek,Joint Venture,Namesti republiky 1,Praha,PR,CZ,110 00,420235013502,GMT+1:00 Europe/Prague,14.43,50.09
-Starbucks,12741-153405,Dejvická,Joint Venture,Vítězné náměstí 2,Praha,PR,CZ,160 00,420235013525,GMT+1:00 Europe/Prague,14.4,50.1
-Starbucks,32280-126867,Malostranské náměstí,Joint Venture,"Malostranské náměstí 28/5, Letiště Václava Havla",Praha,PR,CZ,110 00,420235013500,GMT+1:00 Europe/Prague,14.4,50.09
-Starbucks,32411-134970,Letiště Václava Havla,Joint Venture,"Aviatická - terminál sever 1, Terminál 1 sever",Praha,PR,CZ,160 08,420235013504,GMT+1:00 Europe/Prague,14.27,50.11
-Starbucks,26787-245504,Fashion Arena,Joint Venture,"Zamenhofova 440, Metropole Zličín Mall",Praha,PR,CZ,108 00,420235013548,GMT+1:00 Europe/Prague,14.54,50.08
-Starbucks,1716-143404,Metropole Zličín,Joint Venture,"Řevnická 121/1, OC Palladium Praha",Praha,PR,CZ,155 21,420235013521,GMT+1:00 Europe/Prague,14.29,50.05
-Starbucks,32312-123442,Palladium,Joint Venture,"Náměstí republiky 1, Prvni podlazi",Praha,PR,CZ,110 00,420235013502,GMT+1:00 Europe/Prague,14.43,50.09
-Starbucks,32514-137496,Avion Park Zličín,Joint Venture,Skandinávská 13/145,Praha,PR,CZ,150 00,420235013515,GMT+1:00 Europe/Prague,14.3,50.05
-Starbucks,32694-138269,Staroměstské náměstí,Joint Venture,"Staroměstské náměstí 26/478, Meteor Křižíkova",Praha,PR,CZ,110 00,420235013516,GMT+1:00 Europe/Prague,14.42,50.09
-Starbucks,24296-237090,Meteor Křižíkova,Joint Venture,"Thámova 681/32, Karlin, Centrum Černý Most",Praha,PR,CZ,18600,420235013545,GMT+1:00 Europe/Prague,14.45,50.09
-Starbucks,19078-172614,Centrum Černý Most,Joint Venture,Chlumecká 765/6,Praha,PR,CZ,190 00,420235013537,GMT+1:00 Europe/Prague,14.58,50.11
-Starbucks,1723-134972,Palác Archa,Joint Venture,Na Poříčí 24,Praha,PR,CZ,110 00,420235013512,GMT+1:00 Europe/Prague,14.43,50.09
-Starbucks,16803-166525,I. P. Pavlova,Joint Venture,Jugoslávská 5,Praha,PR,CZ,12000,420235013533,GMT+1:00 Europe/Prague,14.43,50.08
-Starbucks,29655-254736,Letnany,Joint Venture,Veselska 663,Praha,PR,CZ,199 00,420235013514,GMT+1:00 Europe/Prague,14.5,50.14
-Starbucks,23115-228044,Florentinum,Joint Venture,Na Florenci 2116/15,Praha,PR,CZ,110 00,420235013542,GMT+1:00 Europe/Prague,14.44,50.09
-Starbucks,1717-141584,Chodov OC,Joint Venture,Roztylska 2321/19,Praha,PR,CZ,148 00,420235013519,GMT+1:00 Europe/Prague,14.49,50.03
-Starbucks,26583-244691,Andel,Joint Venture,Plzeňská 233/8,Praha 5,PR,CZ,150 00,420235013541,GMT+1:00 Europe/Prague,14.4,50.07
-Starbucks,40948-102601,Stern Center Potsdam,Company Owned,NUTHESTRAßE / STERNSTRAßE,POTSDAM,BB,DE,14480,4933160037192,GMT+1:00 Europe/Berlin,13.13,52.37
-Starbucks,40947-102602,Brandenburgerstrasse 28a,Company Owned,"BRANDENBURGER STRAß 28A, ALEXA",POTSDAM,BB,DE,14467,493312019631,GMT+1:00 Europe/Berlin,13.06,52.4
-Starbucks,40971-108228,Alexa Shopping Centre,Company Owned,GRUNERSTRASSE 20,BERLIN,BE,DE,10719,493027591054,GMT+1:00 Europe/Berlin,13.42,52.52
-Starbucks,40949-103780,Potsdamer Platz 5,Company Owned,"POTSDAMER PLATZ 5, Sony-Center",BERLIN,BE,DE,10785,493025358285,GMT+1:00 Europe/Berlin,13.38,52.51
+Starbucks,12733-149006,Muzeum,Joint Venture,Václavské náměstí 57,Praha,PR,CZ,110 00,4.20224E+11,GMT+1:00 Europe/Prague,14.43,50.08
+Starbucks,1722-137168,Můstek,Joint Venture,Václavské náměstí 40,Praha,PR,CZ,110 00,4.20235E+11,GMT+1:00 Europe/Prague,14.43,50.08
+Starbucks,32313-123443,Palladium Kiosek,Joint Venture,Namesti republiky 1,Praha,PR,CZ,110 00,4.20235E+11,GMT+1:00 Europe/Prague,14.43,50.09
+Starbucks,12741-153405,Dejvická,Joint Venture,Vítězné náměstí 2,Praha,PR,CZ,160 00,4.20235E+11,GMT+1:00 Europe/Prague,14.4,50.1
+Starbucks,32280-126867,Malostranské náměstí,Joint Venture,"Malostranské náměstí 28/5, Letiště Václava Havla",Praha,PR,CZ,110 00,4.20235E+11,GMT+1:00 Europe/Prague,14.4,50.09
+Starbucks,32411-134970,Letiště Václava Havla,Joint Venture,"Aviatická - terminál sever 1, Terminál 1 sever",Praha,PR,CZ,160 08,4.20235E+11,GMT+1:00 Europe/Prague,14.27,50.11
+Starbucks,26787-245504,Fashion Arena,Joint Venture,"Zamenhofova 440, Metropole Zličín Mall",Praha,PR,CZ,108 00,4.20235E+11,GMT+1:00 Europe/Prague,14.54,50.08
+Starbucks,1716-143404,Metropole Zličín,Joint Venture,"Řevnická 121/1, OC Palladium Praha",Praha,PR,CZ,155 21,4.20235E+11,GMT+1:00 Europe/Prague,14.29,50.05
+Starbucks,32312-123442,Palladium,Joint Venture,"Náměstí republiky 1, Prvni podlazi",Praha,PR,CZ,110 00,4.20235E+11,GMT+1:00 Europe/Prague,14.43,50.09
+Starbucks,32514-137496,Avion Park Zličín,Joint Venture,Skandinávská 13/145,Praha,PR,CZ,150 00,4.20235E+11,GMT+1:00 Europe/Prague,14.3,50.05
+Starbucks,32694-138269,Staroměstské náměstí,Joint Venture,"Staroměstské náměstí 26/478, Meteor Křižíkova",Praha,PR,CZ,110 00,4.20235E+11,GMT+1:00 Europe/Prague,14.42,50.09
+Starbucks,24296-237090,Meteor Křižíkova,Joint Venture,"Thámova 681/32, Karlin, Centrum Černý Most",Praha,PR,CZ,18600,4.20235E+11,GMT+1:00 Europe/Prague,14.45,50.09
+Starbucks,19078-172614,Centrum Černý Most,Joint Venture,Chlumecká 765/6,Praha,PR,CZ,190 00,4.20235E+11,GMT+1:00 Europe/Prague,14.58,50.11
+Starbucks,1723-134972,Palác Archa,Joint Venture,Na Poříčí 24,Praha,PR,CZ,110 00,4.20235E+11,GMT+1:00 Europe/Prague,14.43,50.09
+Starbucks,16803-166525,I. P. Pavlova,Joint Venture,Jugoslávská 5,Praha,PR,CZ,12000,4.20235E+11,GMT+1:00 Europe/Prague,14.43,50.08
+Starbucks,29655-254736,Letnany,Joint Venture,Veselska 663,Praha,PR,CZ,199 00,4.20235E+11,GMT+1:00 Europe/Prague,14.5,50.14
+Starbucks,23115-228044,Florentinum,Joint Venture,Na Florenci 2116/15,Praha,PR,CZ,110 00,4.20235E+11,GMT+1:00 Europe/Prague,14.44,50.09
+Starbucks,1717-141584,Chodov OC,Joint Venture,Roztylska 2321/19,Praha,PR,CZ,148 00,4.20235E+11,GMT+1:00 Europe/Prague,14.49,50.03
+Starbucks,26583-244691,Andel,Joint Venture,Plzeňská 233/8,Praha 5,PR,CZ,150 00,4.20235E+11,GMT+1:00 Europe/Prague,14.4,50.07
+Starbucks,40948-102601,Stern Center Potsdam,Company Owned,NUTHESTRAßE / STERNSTRAßE,POTSDAM,BB,DE,14480,4.93316E+12,GMT+1:00 Europe/Berlin,13.13,52.37
+Starbucks,40947-102602,Brandenburgerstrasse 28a,Company Owned,"BRANDENBURGER STRAß 28A, ALEXA",POTSDAM,BB,DE,14467,4.93312E+11,GMT+1:00 Europe/Berlin,13.06,52.4
+Starbucks,40971-108228,Alexa Shopping Centre,Company Owned,GRUNERSTRASSE 20,BERLIN,BE,DE,10719,4.93028E+11,GMT+1:00 Europe/Berlin,13.42,52.52
+Starbucks,40949-103780,Potsdamer Platz 5,Company Owned,"POTSDAMER PLATZ 5, Sony-Center",BERLIN,BE,DE,10785,4.93025E+11,GMT+1:00 Europe/Berlin,13.38,52.51
 Starbucks,18524-185885,Sony-Center,Company Owned,Neue Potsdamer Str. 2,Berlin,BE,DE,10785,3023003314,GMT+1:00 Europe/Berlin,13.37,52.51
-Starbucks,40902-73863,Pariser Platz,Company Owned,PARISER PLATZ 4A,BERLIN,BE,DE,10117,493020617990,GMT+1:00 Europe/Berlin,13.38,52.52
+Starbucks,40902-73863,Pariser Platz,Company Owned,PARISER PLATZ 4A,BERLIN,BE,DE,10117,4.93021E+11,GMT+1:00 Europe/Berlin,13.38,52.52
 Starbucks,40959-104787,Kurfuerstendamm 26a,Company Owned,KUERFUERSTENDAMM 26A,BERLIN,BE,DE,10719,3088001790,GMT+1:00 Europe/Berlin,13.33,52.5
 Starbucks,23821-231868,Schlossstrasse,Company Owned,Schlossstrasse 129,Berlin,BE,DE,12163,3051655716,GMT+1:00 Europe/Berlin,13.33,52.46
 Starbucks,40978-109844,Kurfuerstendamm 61,Company Owned,KURFUERSTENDAMM 61,BERLIN,BE,DE,10707,3081825787,GMT+1:00 Europe/Berlin,13.31,52.5
 Starbucks,20422-205364,Bahnhof Alexanderplatz,Company Owned,Dircksenstrasse 2,Berlin,BE,DE,10179,49 3023456894,GMT+1:00 Europe/Berlin,13.41,52.52
-Starbucks,25271-240424,Berlin Zoo Station (Kiosk),Licensed,Hardenbergplatz 11,Berlin,BE,DE,10623,4915125010904,GMT+1:00 Europe/Berlin,13.33,52.51
+Starbucks,25271-240424,Berlin Zoo Station (Kiosk),Licensed,Hardenbergplatz 11,Berlin,BE,DE,10623,4.91513E+12,GMT+1:00 Europe/Berlin,13.33,52.51
 Starbucks,40945-104692,Friedrichstrasse 210,Company Owned,FRIEDRICHSTRASSE 210,BERLIN,BE,DE,10969,3025291760,GMT+1:00 Europe/Berlin,13.39,52.51
 Starbucks,40904-77324,Friedrichstrasse 61,Company Owned,FRIEDRICHSTRASSE 61,BERLIN,BE,DE,10117,30206086711,GMT+1:00 Europe/Berlin,13.39,52.51
 Starbucks,48719-264667,Ackerstrasse,Company Owned,"Invalidenstrasse 158, IHZ",Berlin,BE,DE,,,GMT+1:00 Europe/Berlin,13.4,52.53
 Starbucks,40903-77323,IHZ - Friedrichstrasse 96,Company Owned,FRIEDRICHSTRASSE 96,BERLIN,BE,DE,10117,3020629540,GMT+1:00 Europe/Berlin,13.39,52.52
-Starbucks,20052-195566,Berlin Ostbahnhof,Licensed,"Am Ostbahnhof, POTSDAMER ARKADEN",Berlin,BE,DE,10559,493029337611,GMT+1:00 Europe/Berlin,13.43,52.51
-Starbucks,40910-77361,Potsdamer Arkaden,Company Owned,"ALTE POTSDAMER STRASSE 7, FLUGHAFEN TEGEL - TXL",BERLIN,BE,DE,10785,493025291568,GMT+1:00 Europe/Berlin,13.37,52.51
+Starbucks,20052-195566,Berlin Ostbahnhof,Licensed,"Am Ostbahnhof, POTSDAMER ARKADEN",Berlin,BE,DE,10559,4.93029E+11,GMT+1:00 Europe/Berlin,13.43,52.51
+Starbucks,40910-77361,Potsdamer Arkaden,Company Owned,"ALTE POTSDAMER STRASSE 7, FLUGHAFEN TEGEL - TXL",BERLIN,BE,DE,10785,4.93025E+11,GMT+1:00 Europe/Berlin,13.37,52.51
 Starbucks,40984-115105,TXL - Tegel - Terminal A,Company Owned,"SAATWINKLER DAMM, TERMINAL A, BERLIN HAUPTBAHNHOF",BERLIN,BE,DE,13405,3041474802,GMT+1:00 Europe/Berlin,13.29,52.55
-Starbucks,31078-102772,Berlin Hauptbahnhof,Company Owned,EUROPAPLATZ 1,BERLIN,BE,DE,10557,493020058929,GMT+1:00 Europe/Berlin,13.37,52.52
+Starbucks,31078-102772,Berlin Hauptbahnhof,Company Owned,EUROPAPLATZ 1,BERLIN,BE,DE,10557,4.9302E+11,GMT+1:00 Europe/Berlin,13.37,52.52
 Starbucks,40907-81222,Kurfuerstendamm  231,Company Owned,"KURFUERSTENDAMM 231, WILMERSDORFER ARCADEN",BERLIN,BE,DE,10719,3088726624,GMT+1:00 Europe/Berlin,13.33,52.5
 Starbucks,40993-101710,Wilmersdorfer Arcaden,Company Owned,WILMERSDORFER STRASSE 53-54,BERLIN,BE,DE,10627,3032301639,GMT+1:00 Europe/Berlin,13.31,52.51
-Starbucks,40966-107930,Alexanderplatz,Company Owned,PANORAMASTRASSE 1A,BERLIN,BE,DE,10178,493021230858,GMT+1:00 Europe/Berlin,13.41,52.52
-Starbucks,17421-181704,Cite Center,Company Owned,Gewerbepark Cite 7,Baden-Baden,BW,DE,76532,4972212761874,GMT+1:00 Europe/Berlin,8.19,48.78
-Starbucks,19698-202604,Stuttgart Panzer Kaserne,Licensed,"Panzer Kaserne, In ser Panzer Strasse Bldg 2903",Boeblingen,BW,DE,71032,4932212155091,GMT+1:00 Europe/Berlin,9.04,48.69
-Starbucks,1175-139262,Pliensaustrasse 8,Company Owned,"Pliensaustrasse 8, FRAIBURG MAIN STATION",Esslingen,BW,DE,73728,4971134238541,GMT+1:00 Europe/Berlin,9.31,48.74
-Starbucks,41024-127966,Freiburg Hauptbahnhof,Company Owned,BISMARCKALLEE 5,FREIBURG,BW,DE,79098,497611376849,GMT+1:00 Europe/Berlin,7.84,48
-Starbucks,41035-137174,Humboldtstrasse 2,Company Owned,HUMBOLDTSTRASSE 2,FREIBURG,BW,DE,79098,497611375575,GMT+1:00 Europe/Berlin,7.85,47.99
-Starbucks,40931-95918,Kaiser-Joseph-Strasse 147-149,Company Owned,KAISER-JOSEPH-STRASSE 147-149,FREIBURG,BW,DE,79098,497611379029,GMT+1:00 Europe/Berlin,7.85,48
-Starbucks,40925-88241,Hauptstrasse 137,Company Owned,HAUPTSTRASSE 137,HEIDELBERG,BW,DE,69117,4962214385064,GMT+1:00 Europe/Berlin,8.71,49.41
-Starbucks,40991-115893,Hauptstrasse 25,Company Owned,"HAUPTSTRASSE 25, STADT GALERIE",HEIDELBERG,BW,DE,69117,4962214332585,GMT+1:00 Europe/Berlin,8.7,49.41
-Starbucks,40982-113089,Stadt-Galerie,Company Owned,DEUTSCHHOFSTRASSE SHOP 1.13,HEILBRONN,BW,DE,74072,4971315945484,GMT+1:00 Europe/Berlin,9.22,49.14
-Starbucks,41009-115899,Kilianstrasse 6,Company Owned,KILIANSTRASSE 6,HEILBRONN,BW,DE,74072,4971315943667,GMT+1:00 Europe/Berlin,9.22,49.14
-Starbucks,40981-114924,Kaiserstrasse 185,Company Owned,"KAISERSTRASSE 185, ETTLINGER TOR",KARLSRUHE,BW,DE,76133,497211510020,GMT+1:00 Europe/Berlin,8.4,49.01
-Starbucks,40992-115895,Ettlinger Tor,Company Owned,ETTLINGER-TOR-PLATZ 1,KARLSRUHE,BW,DE,76133,497213523449,GMT+1:00 Europe/Berlin,8.4,49.01
-Starbucks,17128-172265,Europaplatz,Company Owned,"Kaiserstrasse 217, LEO-CENTER",Karlsruhe,BW,DE,76133,4972195139946,GMT+1:00 Europe/Berlin,8.39,49.01
-Starbucks,41022-127967,Leo-Center,Company Owned,LEONBERGER STRASSE 98-108,LEONBERG,BW,DE,71229,4971523305986,GMT+1:00 Europe/Berlin,9.01,48.8
-Starbucks,1174-141222,Breuningerland Ludwigsburg,Company Owned,Heinkelstrasse 1-11,Ludwigsburg,BW,DE,71634,4971412987517,GMT+1:00 Europe/Berlin,9.15,48.92
-Starbucks,41010-117528,Am Wasserturm,Company Owned,"O7, 18 A, KOENIGSBAU PASSAGEN",MANNHEIM,BW,DE,68161,496211225818,GMT+1:00 Europe/Berlin,8.47,49.48
-Starbucks,30891-98355,Koenigsbau Passagen,Company Owned,"KOENIGSTRASSE 28, STUTTGART MAIN STATION",STUTTGART,BW,DE,70173,497112202070,GMT+1:00 Europe/Berlin,9.18,48.78
-Starbucks,40944-104366,Stuttgart Hauptbahnhof,Company Owned,ARNULF-KLETT-PLATZ 2,STUTTGART,BW,DE,70173,497112200362,GMT+1:00 Europe/Berlin,9.18,48.78
+Starbucks,40966-107930,Alexanderplatz,Company Owned,PANORAMASTRASSE 1A,BERLIN,BE,DE,10178,4.93021E+11,GMT+1:00 Europe/Berlin,13.41,52.52
+Starbucks,17421-181704,Cite Center,Company Owned,Gewerbepark Cite 7,Baden-Baden,BW,DE,76532,4.97221E+12,GMT+1:00 Europe/Berlin,8.19,48.78
+Starbucks,19698-202604,Stuttgart Panzer Kaserne,Licensed,"Panzer Kaserne, In ser Panzer Strasse Bldg 2903",Boeblingen,BW,DE,71032,4.93221E+12,GMT+1:00 Europe/Berlin,9.04,48.69
+Starbucks,1175-139262,Pliensaustrasse 8,Company Owned,"Pliensaustrasse 8, FRAIBURG MAIN STATION",Esslingen,BW,DE,73728,4.97113E+12,GMT+1:00 Europe/Berlin,9.31,48.74
+Starbucks,41024-127966,Freiburg Hauptbahnhof,Company Owned,BISMARCKALLEE 5,FREIBURG,BW,DE,79098,4.97611E+11,GMT+1:00 Europe/Berlin,7.84,48
+Starbucks,41035-137174,Humboldtstrasse 2,Company Owned,HUMBOLDTSTRASSE 2,FREIBURG,BW,DE,79098,4.97611E+11,GMT+1:00 Europe/Berlin,7.85,47.99
+Starbucks,40931-95918,Kaiser-Joseph-Strasse 147-149,Company Owned,KAISER-JOSEPH-STRASSE 147-149,FREIBURG,BW,DE,79098,4.97611E+11,GMT+1:00 Europe/Berlin,7.85,48
+Starbucks,40925-88241,Hauptstrasse 137,Company Owned,HAUPTSTRASSE 137,HEIDELBERG,BW,DE,69117,4.96221E+12,GMT+1:00 Europe/Berlin,8.71,49.41
+Starbucks,40991-115893,Hauptstrasse 25,Company Owned,"HAUPTSTRASSE 25, STADT GALERIE",HEIDELBERG,BW,DE,69117,4.96221E+12,GMT+1:00 Europe/Berlin,8.7,49.41
+Starbucks,40982-113089,Stadt-Galerie,Company Owned,DEUTSCHHOFSTRASSE SHOP 1.13,HEILBRONN,BW,DE,74072,4.97132E+12,GMT+1:00 Europe/Berlin,9.22,49.14
+Starbucks,41009-115899,Kilianstrasse 6,Company Owned,KILIANSTRASSE 6,HEILBRONN,BW,DE,74072,4.97132E+12,GMT+1:00 Europe/Berlin,9.22,49.14
+Starbucks,40981-114924,Kaiserstrasse 185,Company Owned,"KAISERSTRASSE 185, ETTLINGER TOR",KARLSRUHE,BW,DE,76133,4.97212E+11,GMT+1:00 Europe/Berlin,8.4,49.01
+Starbucks,40992-115895,Ettlinger Tor,Company Owned,ETTLINGER-TOR-PLATZ 1,KARLSRUHE,BW,DE,76133,4.97214E+11,GMT+1:00 Europe/Berlin,8.4,49.01
+Starbucks,17128-172265,Europaplatz,Company Owned,"Kaiserstrasse 217, LEO-CENTER",Karlsruhe,BW,DE,76133,4.9722E+12,GMT+1:00 Europe/Berlin,8.39,49.01
+Starbucks,41022-127967,Leo-Center,Company Owned,LEONBERGER STRASSE 98-108,LEONBERG,BW,DE,71229,4.97152E+12,GMT+1:00 Europe/Berlin,9.01,48.8
+Starbucks,1174-141222,Breuningerland Ludwigsburg,Company Owned,Heinkelstrasse 1-11,Ludwigsburg,BW,DE,71634,4.97141E+12,GMT+1:00 Europe/Berlin,9.15,48.92
+Starbucks,41010-117528,Am Wasserturm,Company Owned,"O7, 18 A, KOENIGSBAU PASSAGEN",MANNHEIM,BW,DE,68161,4.96211E+11,GMT+1:00 Europe/Berlin,8.47,49.48
+Starbucks,30891-98355,Koenigsbau Passagen,Company Owned,"KOENIGSTRASSE 28, STUTTGART MAIN STATION",STUTTGART,BW,DE,70173,4.97112E+11,GMT+1:00 Europe/Berlin,9.18,48.78
+Starbucks,40944-104366,Stuttgart Hauptbahnhof,Company Owned,ARNULF-KLETT-PLATZ 2,STUTTGART,BW,DE,70173,4.97112E+11,GMT+1:00 Europe/Berlin,9.18,48.78
 Starbucks,23014-216744,Milaneo,Company Owned,Mailaender Platz,Stuttgart,BW,DE,70173,71199781912,GMT+1:00 Europe/Berlin,9.18,48.79
-Starbucks,40941-96842,Koenigstrasse 44,Company Owned,Koenigstrasse 44,Stuttgart,BW,DE,70173,497111204301,GMT+1:00 Europe/Berlin,9.18,48.78
-Starbucks,30893-100084,Calwerstrasse 36,Company Owned,CALWERSTRASSE 36,STUTTGART,BW,DE,70173,497112200282,GMT+1:00 Europe/Berlin,9.17,48.78
-Starbucks,3598-145144,Erlangen Arcaden,Company Owned,Nuernberger Strasse 7,Erlangen,BY,DE,91052,4991314000736,GMT+1:00 Europe/Berlin,11,49.59
-Starbucks,21607-213526,U.S. Army Garrison Grafenwohr,Licensed,"U.S. Army Garrison Grafenwohr, Am Lager",Grafenwohr,BY,DE,92655,4996416238630,GMT+1:00 Europe/Berlin,11.88,49.7
+Starbucks,40941-96842,Koenigstrasse 44,Company Owned,Koenigstrasse 44,Stuttgart,BW,DE,70173,4.97111E+11,GMT+1:00 Europe/Berlin,9.18,48.78
+Starbucks,30893-100084,Calwerstrasse 36,Company Owned,CALWERSTRASSE 36,STUTTGART,BW,DE,70173,4.97112E+11,GMT+1:00 Europe/Berlin,9.17,48.78
+Starbucks,3598-145144,Erlangen Arcaden,Company Owned,Nuernberger Strasse 7,Erlangen,BY,DE,91052,4.99131E+12,GMT+1:00 Europe/Berlin,11,49.59
+Starbucks,21607-213526,U.S. Army Garrison Grafenwohr,Licensed,"U.S. Army Garrison Grafenwohr, Am Lager",Grafenwohr,BY,DE,92655,4.99642E+12,GMT+1:00 Europe/Berlin,11.88,49.7
 Starbucks,40939-91346,Sendlingerstrasse 27,Company Owned,SENDLINGER STRASSE 27,MUENCHEN,BY,DE,80331,8923077831,GMT+1:00 Europe/Berlin,11.57,48.14
-Starbucks,40936-96211,Leopoldstrasse 56,Company Owned,"LEOPOLDSTRASSE 56, MUNICH MAIN STATION",MUENCHEN,BY,DE,80802,498933019577,GMT+1:00 Europe/Berlin,11.59,48.16
-Starbucks,40963-105719,Muenchen Hauptbahnhof Platform 11,Company Owned,BAYERSTRASSE 10A,MUENCHEN,BY,DE,80335,498951114743,GMT+1:00 Europe/Berlin,11.56,48.14
-Starbucks,40961-105795,Odeonsplatz,Company Owned,ODEONSPLATZ 15-16,MUENCHEN,BY,DE,80539,498921019393,GMT+1:00 Europe/Berlin,11.58,48.14
-Starbucks,40985-115888,Schuetzenstrasse 8,Company Owned,SCHUETZENSTRASSE 8,MUENCHEN,BY,DE,80335,498951555497,GMT+1:00 Europe/Berlin,11.56,48.14
-Starbucks,40943-98234,Rosental 7,Company Owned,"ROSENTAL 7, PEP EKZ",MUENCHEN,BY,DE,80331,498923077527,GMT+1:00 Europe/Berlin,11.58,48.14
-Starbucks,30741-98235,PEP EKZ,Company Owned,"THOMAS-DEHLER-STRASSE 12, OLLENHAUSERSTRASSE 6",MUENCHEN,BY,DE,81737,498963894016,GMT+1:00 Europe/Berlin,11.65,48.1
+Starbucks,40936-96211,Leopoldstrasse 56,Company Owned,"LEOPOLDSTRASSE 56, MUNICH MAIN STATION",MUENCHEN,BY,DE,80802,4.98933E+11,GMT+1:00 Europe/Berlin,11.59,48.16
+Starbucks,40963-105719,Muenchen Hauptbahnhof Platform 11,Company Owned,BAYERSTRASSE 10A,MUENCHEN,BY,DE,80335,4.98951E+11,GMT+1:00 Europe/Berlin,11.56,48.14
+Starbucks,40961-105795,Odeonsplatz,Company Owned,ODEONSPLATZ 15-16,MUENCHEN,BY,DE,80539,4.98921E+11,GMT+1:00 Europe/Berlin,11.58,48.14
+Starbucks,40985-115888,Schuetzenstrasse 8,Company Owned,SCHUETZENSTRASSE 8,MUENCHEN,BY,DE,80335,4.98952E+11,GMT+1:00 Europe/Berlin,11.56,48.14
+Starbucks,40943-98234,Rosental 7,Company Owned,"ROSENTAL 7, PEP EKZ",MUENCHEN,BY,DE,80331,4.98923E+11,GMT+1:00 Europe/Berlin,11.58,48.14
+Starbucks,30741-98235,PEP EKZ,Company Owned,"THOMAS-DEHLER-STRASSE 12, OLLENHAUSERSTRASSE 6",MUENCHEN,BY,DE,81737,4.98964E+11,GMT+1:00 Europe/Berlin,11.65,48.1
 Starbucks,1199-135484,EKZ Stachuspassagen,Company Owned,"Einkaufszentrum Stachus-Passagen, Karlsplatz 8, MUC-MUNICH AIRPORT",MUENCHEN,BY,DE,80335,49 89 51265888,GMT+1:00 Europe/Berlin,11.57,48.14
-Starbucks,41008-116000,MUC - Munich Airport T2 Ankunft,Company Owned,"TERMINALSTRASSE, TERMINAL 2 ANKUNFT",MUENCHEN,BY,DE,85356,498997337843,GMT+1:00 Europe/Berlin,11.79,48.35
-Starbucks,3666-144486,Platzl1,Company Owned,Platzl 3,MUENCHEN,BY,DE,80331,498921024726,GMT+1:00 Europe/Berlin,11.58,48.14
+Starbucks,41008-116000,MUC - Munich Airport T2 Ankunft,Company Owned,"TERMINALSTRASSE, TERMINAL 2 ANKUNFT",MUENCHEN,BY,DE,85356,4.98997E+11,GMT+1:00 Europe/Berlin,11.79,48.35
+Starbucks,3666-144486,Platzl1,Company Owned,Platzl 3,MUENCHEN,BY,DE,80331,4.98921E+11,GMT+1:00 Europe/Berlin,11.58,48.14
 Starbucks,29158-252786,Arnulfstrasse 34,Company Owned,Arnulfstrasse 34,Munich,BY,DE,,,GMT+1:00 Europe/Berlin,11.56,48.14
 Starbucks,26813-245686,Pippinger Flur A8 Munchen,Licensed,A8 - Fahrtrichtung Ost,Munich,BY,DE,81245,,GMT+1:00 Europe/Berlin,11.45,48.17
-Starbucks,40937-95466,Hauptmarkt 1,Company Owned,HAUPTMARKT 1,NUERNBERG,BY,DE,90403,4991123555910,GMT+1:00 Europe/Berlin,11.08,49.45
-Starbucks,31035-103157,Karolinenstrasse 12,Company Owned,KAROLINENSTRASSE 12,NUERNBERG,BY,DE,90402,499112029230,GMT+1:00 Europe/Berlin,11.08,49.45
-Starbucks,30679-98922,Hefnersplatz 10,Company Owned,HEFNERSPLATZ 10,NÜRNBERG,BY,DE,90402,499112029718,GMT+1:00 Europe/Berlin,11.07,49.45
-Starbucks,40998-115943,Breite Gasse 41,Company Owned,BREITE GASSE 41,NÜRNBERG,BY,DE,90402,499112369838,GMT+1:00 Europe/Berlin,11.08,49.45
-Starbucks,41013-122785,Waterfront Kiosk,Company Owned,"USE AKSCHEN 4, WATERFRONT",BREMEN,HB,DE,28237,494216437500,GMT+1:00 Europe/Berlin,8.75,53.11
-Starbucks,41007-119886,Waterfront C02,Company Owned,AG-WESER-STRASSE 1,BREMEN,HB,DE,28237,494216194575,GMT+1:00 Europe/Berlin,8.75,53.11
-Starbucks,41006-122024,Marktstrasse 3,Company Owned,MARKTSTRASSE 3,BREMEN,HB,DE,28195,494212581979,GMT+1:00 Europe/Berlin,8.81,53.08
-Starbucks,15188-158364,Bremen Hauptbahnhof,Company Owned,Bahnhofsplatz 15,Bremen,HB,DE,28195,4942124277601,GMT+1:00 Europe/Berlin,8.81,53.08
-Starbucks,40974-110906,Luisenplatz 4,Company Owned,LUISENPLATZ 4,DARMSTADT,HE,DE,64283,4961511011313,GMT+1:00 Europe/Berlin,8.65,49.87
+Starbucks,40937-95466,Hauptmarkt 1,Company Owned,HAUPTMARKT 1,NUERNBERG,BY,DE,90403,4.99112E+12,GMT+1:00 Europe/Berlin,11.08,49.45
+Starbucks,31035-103157,Karolinenstrasse 12,Company Owned,KAROLINENSTRASSE 12,NUERNBERG,BY,DE,90402,4.99112E+11,GMT+1:00 Europe/Berlin,11.08,49.45
+Starbucks,30679-98922,Hefnersplatz 10,Company Owned,HEFNERSPLATZ 10,NÜRNBERG,BY,DE,90402,4.99112E+11,GMT+1:00 Europe/Berlin,11.07,49.45
+Starbucks,40998-115943,Breite Gasse 41,Company Owned,BREITE GASSE 41,NÜRNBERG,BY,DE,90402,4.99112E+11,GMT+1:00 Europe/Berlin,11.08,49.45
+Starbucks,41013-122785,Waterfront Kiosk,Company Owned,"USE AKSCHEN 4, WATERFRONT",BREMEN,HB,DE,28237,4.94216E+11,GMT+1:00 Europe/Berlin,8.75,53.11
+Starbucks,41007-119886,Waterfront C02,Company Owned,AG-WESER-STRASSE 1,BREMEN,HB,DE,28237,4.94216E+11,GMT+1:00 Europe/Berlin,8.75,53.11
+Starbucks,41006-122024,Marktstrasse 3,Company Owned,MARKTSTRASSE 3,BREMEN,HB,DE,28195,4.94213E+11,GMT+1:00 Europe/Berlin,8.81,53.08
+Starbucks,15188-158364,Bremen Hauptbahnhof,Company Owned,Bahnhofsplatz 15,Bremen,HB,DE,28195,4.94212E+12,GMT+1:00 Europe/Berlin,8.81,53.08
+Starbucks,40974-110906,Luisenplatz 4,Company Owned,LUISENPLATZ 4,DARMSTADT,HE,DE,64283,4.96151E+12,GMT+1:00 Europe/Berlin,8.65,49.87
 Starbucks,49906-271646,Eschersheimer Landstrasse,Company Owned,Eschersheimer Landstrasse 223,Frankfurt,HE,DE,60320,,GMT+1:00 Europe/Berlin,8.67,50.13
-Starbucks,29637-254611,Frankfurt - The Squaire (station),Licensed,Hugo-Eckener-Ring,Frankfurt,HE,DE,60549,496969595666,GMT+1:00 Europe/Berlin,8.57,50.05
-Starbucks,3667-144644,FRA - Terminal 1 Departures,Licensed,"Terminal 1 - Geb 200, Albflughalle C",Frankfurt,HE,DE,60549,491724044671,GMT+1:00 Europe/Berlin,8.56,50.03
-Starbucks,29636-254612,Frankfurt - Airport T2 (airside),Licensed,"Terminal 2, Abflugbereich, Ebene 3, Gate E",Frankfurt,HE,DE,60547,496969539764,GMT+1:00 Europe/Berlin,8.59,50.05
+Starbucks,29637-254611,Frankfurt - The Squaire (station),Licensed,Hugo-Eckener-Ring,Frankfurt,HE,DE,60549,4.9697E+11,GMT+1:00 Europe/Berlin,8.57,50.05
+Starbucks,3667-144644,FRA - Terminal 1 Departures,Licensed,"Terminal 1 - Geb 200, Albflughalle C",Frankfurt,HE,DE,60549,4.91724E+11,GMT+1:00 Europe/Berlin,8.56,50.03
+Starbucks,29636-254612,Frankfurt - Airport T2 (airside),Licensed,"Terminal 2, Abflugbereich, Ebene 3, Gate E",Frankfurt,HE,DE,60547,4.9697E+11,GMT+1:00 Europe/Berlin,8.59,50.05
 Starbucks,29322-253306,Frankfurt - US Consulate,Licensed,Giessener Strasse 30,Frankfurt,HE,DE,60435,,GMT+1:00 Europe/Berlin,8.69,50.14
-Starbucks,29638-254609,Frankfurt-Airport (hall B landside),Licensed,"Terminal 1, Ebene 2, Halle B",Frankfurt,HE,DE,60549,496969538759,GMT+1:00 Europe/Berlin,8.57,50.05
-Starbucks,20029-197624,Skyline Plaza,Company Owned,Europa-Allee 6,FRANKFURT AM MAIN,HE,DE,60327,496974220914,GMT+1:00 Europe/Berlin,8.65,50.11
-Starbucks,17370-177364,Konstablerwache,Company Owned,Grosse Friedberger Str. 6,FRANKFURT AM MAIN,HE,DE,60313,496921655884,GMT+1:00 Europe/Berlin,8.69,50.11
-Starbucks,41001-115911,Kaiserstrasse 75-77,Company Owned,KAISERSTRASSE 75-77,FRANKFURT AM MAIN,HE,DE,60329,496923805776,GMT+1:00 Europe/Berlin,8.67,50.11
-Starbucks,40987-115071,An der Hauptwache 7,Company Owned,AN DER HAUPTWACHE 7,FRANKFURT AM MAIN,HE,DE,60313,496921029773,GMT+1:00 Europe/Berlin,8.68,50.11
-Starbucks,40911-83580,Kaiserstrasse 20,Company Owned,KAISERSTRASSE 20,FRANKFURT AM MAIN,HE,DE,60311,496921028867,GMT+1:00 Europe/Berlin,8.67,50.11
-Starbucks,40921-83581,Boersenplatz,Company Owned,"Boersenplatz 1, EUROTHEUM",FRANKFURT AM MAIN,HE,DE,60313,496913384332,GMT+1:00 Europe/Berlin,8.68,50.11
-Starbucks,40913-83582,Neue Mainzer Strasse 66-68,Company Owned,"NEUE MAINZER STRASSE 66-68, FRANKFURT MAIN STATION",FRANKFURT AM MAIN,HE,DE,60311,496913384357,GMT+1:00 Europe/Berlin,8.67,50.11
-Starbucks,30641-98403,Frankfurt Hauptbahnhof,Company Owned,KAISERSTRASSE,FRANKFURT AM MAIN,HE,DE,60329,496925624921,GMT+1:00 Europe/Berlin,8.66,50.11
-Starbucks,18434-185891,Hessencenter,Company Owned,"Borsigallee 26, Rhein/Main, NORD WEST ZENTRUM",FRANKFURT AM MAIN,HE,DE,60388,4961093759783,GMT+1:00 Europe/Berlin,8.75,50.14
-Starbucks,40935-88240,Nord West Zentrum,Company Owned,LIMESCORSO 8,FRANKFURT AM MAIN,HE,DE,60439,496958092315,GMT+1:00 Europe/Berlin,8.63,50.16
-Starbucks,40908-81660,Fressgass,Company Owned,GROSSE BOCKENHEIMER 50,FRANKFURT AM MAIN,HE,DE,60313,496913387967,GMT+1:00 Europe/Berlin,8.67,50.11
-Starbucks,18289-185887,Koenigsplatz,Company Owned,"Koenigsplatz 59, Hessen District",Kassel,HE,DE,34117,4956173975553,GMT+1:00 Europe/Berlin,9.5,51.32
-Starbucks,5131-128364,KOMM,Company Owned,Grosse Marktstrasse & Aliceplatz,Offenbach am Main,HE,DE,63065,496980904816,GMT+1:00 Europe/Berlin,8.76,50.1
-Starbucks,30669-159284,Main Taunus Zentrum,Company Owned,"Main Taunus Zentrum, RHEIN NEKAR ZENTRUM",Sulzbach,HE,DE,65843,496930058686,GMT+1:00 Europe/Berlin,8.53,50.12
-Starbucks,30696-95045,Rhein Neckar Zentrum,Company Owned,ROBERT-SCHUMANN-STRASSE 2,VIERNHEIM,HE,DE,68519,4962047086044,GMT+1:00 Europe/Berlin,8.57,49.53
-Starbucks,1193-115969,Loop 5,Company Owned,GUTENBERGSTRASSE 3-15,WEITERSTADT,HE,DE,64331,4961519067966,GMT+1:00 Europe/Berlin,8.61,49.89
-Starbucks,25528-241284,Wiesbaden AAFES - Hainerberg Mall,Licensed,WASHINGTONSTR. 7763,Wiesbaden,HE,DE,65189,4961194119310,GMT+1:00 Europe/Berlin,8.27,50.07
-Starbucks,40934-96030,Kirchgasse 35-43,Company Owned,"KIRCHGASSE 35-43, LILIENCARREE",WIESBADEN,HE,DE,65183,496111608896,GMT+1:00 Europe/Berlin,8.24,50.08
-Starbucks,40955-102397,Lilien Carre,Company Owned,BAHNHOFSPLATZ 3,WIESBADEN,HE,DE,65189,496112052148,GMT+1:00 Europe/Berlin,8.24,50.07
+Starbucks,29638-254609,Frankfurt-Airport (hall B landside),Licensed,"Terminal 1, Ebene 2, Halle B",Frankfurt,HE,DE,60549,4.9697E+11,GMT+1:00 Europe/Berlin,8.57,50.05
+Starbucks,20029-197624,Skyline Plaza,Company Owned,Europa-Allee 6,FRANKFURT AM MAIN,HE,DE,60327,4.96974E+11,GMT+1:00 Europe/Berlin,8.65,50.11
+Starbucks,17370-177364,Konstablerwache,Company Owned,Grosse Friedberger Str. 6,FRANKFURT AM MAIN,HE,DE,60313,4.96922E+11,GMT+1:00 Europe/Berlin,8.69,50.11
+Starbucks,41001-115911,Kaiserstrasse 75-77,Company Owned,KAISERSTRASSE 75-77,FRANKFURT AM MAIN,HE,DE,60329,4.96924E+11,GMT+1:00 Europe/Berlin,8.67,50.11
+Starbucks,40987-115071,An der Hauptwache 7,Company Owned,AN DER HAUPTWACHE 7,FRANKFURT AM MAIN,HE,DE,60313,4.96921E+11,GMT+1:00 Europe/Berlin,8.68,50.11
+Starbucks,40911-83580,Kaiserstrasse 20,Company Owned,KAISERSTRASSE 20,FRANKFURT AM MAIN,HE,DE,60311,4.96921E+11,GMT+1:00 Europe/Berlin,8.67,50.11
+Starbucks,40921-83581,Boersenplatz,Company Owned,"Boersenplatz 1, EUROTHEUM",FRANKFURT AM MAIN,HE,DE,60313,4.96913E+11,GMT+1:00 Europe/Berlin,8.68,50.11
+Starbucks,40913-83582,Neue Mainzer Strasse 66-68,Company Owned,"NEUE MAINZER STRASSE 66-68, FRANKFURT MAIN STATION",FRANKFURT AM MAIN,HE,DE,60311,4.96913E+11,GMT+1:00 Europe/Berlin,8.67,50.11
+Starbucks,30641-98403,Frankfurt Hauptbahnhof,Company Owned,KAISERSTRASSE,FRANKFURT AM MAIN,HE,DE,60329,4.96926E+11,GMT+1:00 Europe/Berlin,8.66,50.11
+Starbucks,18434-185891,Hessencenter,Company Owned,"Borsigallee 26, Rhein/Main, NORD WEST ZENTRUM",FRANKFURT AM MAIN,HE,DE,60388,4.96109E+12,GMT+1:00 Europe/Berlin,8.75,50.14
+Starbucks,40935-88240,Nord West Zentrum,Company Owned,LIMESCORSO 8,FRANKFURT AM MAIN,HE,DE,60439,4.96958E+11,GMT+1:00 Europe/Berlin,8.63,50.16
+Starbucks,40908-81660,Fressgass,Company Owned,GROSSE BOCKENHEIMER 50,FRANKFURT AM MAIN,HE,DE,60313,4.96913E+11,GMT+1:00 Europe/Berlin,8.67,50.11
+Starbucks,18289-185887,Koenigsplatz,Company Owned,"Koenigsplatz 59, Hessen District",Kassel,HE,DE,34117,4.95617E+12,GMT+1:00 Europe/Berlin,9.5,51.32
+Starbucks,5131-128364,KOMM,Company Owned,Grosse Marktstrasse & Aliceplatz,Offenbach am Main,HE,DE,63065,4.96981E+11,GMT+1:00 Europe/Berlin,8.76,50.1
+Starbucks,30669-159284,Main Taunus Zentrum,Company Owned,"Main Taunus Zentrum, RHEIN NEKAR ZENTRUM",Sulzbach,HE,DE,65843,4.9693E+11,GMT+1:00 Europe/Berlin,8.53,50.12
+Starbucks,30696-95045,Rhein Neckar Zentrum,Company Owned,ROBERT-SCHUMANN-STRASSE 2,VIERNHEIM,HE,DE,68519,4.96205E+12,GMT+1:00 Europe/Berlin,8.57,49.53
+Starbucks,1193-115969,Loop 5,Company Owned,GUTENBERGSTRASSE 3-15,WEITERSTADT,HE,DE,64331,4.96152E+12,GMT+1:00 Europe/Berlin,8.61,49.89
+Starbucks,25528-241284,Wiesbaden AAFES - Hainerberg Mall,Licensed,WASHINGTONSTR. 7763,Wiesbaden,HE,DE,65189,4.96119E+12,GMT+1:00 Europe/Berlin,8.27,50.07
+Starbucks,40934-96030,Kirchgasse 35-43,Company Owned,"KIRCHGASSE 35-43, LILIENCARREE",WIESBADEN,HE,DE,65183,4.96112E+11,GMT+1:00 Europe/Berlin,8.24,50.08
+Starbucks,40955-102397,Lilien Carre,Company Owned,BAHNHOFSPLATZ 3,WIESBADEN,HE,DE,65189,4.96112E+11,GMT+1:00 Europe/Berlin,8.24,50.07
 Starbucks,27798-248728,Hamburg Airport,Licensed,Flughafenstrasse 1-3,Hamburg,HH,DE,22335,,GMT+1:00 Europe/Berlin,10,53.63
-Starbucks,40968-106894,Roedingsmarkt,Company Owned,GROSSER BURSTAH 50-52,HAMBURG,HH,DE,20457,494030069862,GMT+1:00 Europe/Berlin,9.99,53.55
-Starbucks,40946-102801,Rathausmarkt 5,Company Owned,"RATHAUSMARKT 5, ALSTERTAL EKZ",HAMBURG,HH,DE,20095,494040185768,GMT+1:00 Europe/Berlin,9.99,53.55
-Starbucks,40953-103469,Alstertal EKZ,Company Owned,HEEGBARG 31,HAMBURG,HH,DE,22391,494067107980,GMT+1:00 Europe/Berlin,10.09,53.65
-Starbucks,41034-134416,Eppendorfer Zentrum,Company Owned,Kuemmellstrasse 2-8,Hamburg,HH,DE,20249,494040187047,GMT+1:00 Europe/Berlin,9.99,53.59
-Starbucks,18162-188450,Hamburg HBF,Licensed,"Hamburg HBF, Steindamm Suedsteg",Hamburg,HH,DE,20095,494030297258,GMT+1:00 Europe/Berlin,10.01,53.55
-Starbucks,40967-104693,Neuer Jungfernstieg 5,Company Owned,"NEUER JUNGFERNSTIEG 5, STARBUCKS COFFEE HOUSE",HAMBURG,HH,DE,20354,494035015375,GMT+1:00 Europe/Berlin,9.99,53.56
-Starbucks,1176-106896,Am Moenckebergbrunnen,Company Owned,BARKHOF 3.,HAMBURG,HH,DE,20095,494030382206,GMT+1:00 Europe/Berlin,10,53.55
-Starbucks,1246-139255,Elbe EKZ,Company Owned,Osdorfer Landstrasse,Hamburg,HH,DE,22609,494080030268,GMT+1:00 Europe/Berlin,9.86,53.57
-Starbucks,16260-158344,Bahnhof Dammtor,Company Owned,Marseiller Strasse,Hamburg,HH,DE,20355,494041172805,GMT+1:00 Europe/Berlin,9.99,53.56
-Starbucks,41028-139505,Gaensemarkt,Company Owned,GAENSEMARKT 21-23,HAMBURG,HH,DE,20354,494030703905,GMT+1:00 Europe/Berlin,9.99,53.55
-Starbucks,41014-106925,Blankeneser Bahnhofplatz,Company Owned,"ERIK-BLUMFELD-PLATZ 2, EUROPA PASSAGE",HAMBURG,HH,DE,22587,494024198591,GMT+1:00 Europe/Berlin,9.81,53.56
+Starbucks,40968-106894,Roedingsmarkt,Company Owned,GROSSER BURSTAH 50-52,HAMBURG,HH,DE,20457,4.9403E+11,GMT+1:00 Europe/Berlin,9.99,53.55
+Starbucks,40946-102801,Rathausmarkt 5,Company Owned,"RATHAUSMARKT 5, ALSTERTAL EKZ",HAMBURG,HH,DE,20095,4.9404E+11,GMT+1:00 Europe/Berlin,9.99,53.55
+Starbucks,40953-103469,Alstertal EKZ,Company Owned,HEEGBARG 31,HAMBURG,HH,DE,22391,4.94067E+11,GMT+1:00 Europe/Berlin,10.09,53.65
+Starbucks,41034-134416,Eppendorfer Zentrum,Company Owned,Kuemmellstrasse 2-8,Hamburg,HH,DE,20249,4.9404E+11,GMT+1:00 Europe/Berlin,9.99,53.59
+Starbucks,18162-188450,Hamburg HBF,Licensed,"Hamburg HBF, Steindamm Suedsteg",Hamburg,HH,DE,20095,4.9403E+11,GMT+1:00 Europe/Berlin,10.01,53.55
+Starbucks,40967-104693,Neuer Jungfernstieg 5,Company Owned,"NEUER JUNGFERNSTIEG 5, STARBUCKS COFFEE HOUSE",HAMBURG,HH,DE,20354,4.94035E+11,GMT+1:00 Europe/Berlin,9.99,53.56
+Starbucks,1176-106896,Am Moenckebergbrunnen,Company Owned,BARKHOF 3.,HAMBURG,HH,DE,20095,4.9403E+11,GMT+1:00 Europe/Berlin,10,53.55
+Starbucks,1246-139255,Elbe EKZ,Company Owned,Osdorfer Landstrasse,Hamburg,HH,DE,22609,4.9408E+11,GMT+1:00 Europe/Berlin,9.86,53.57
+Starbucks,16260-158344,Bahnhof Dammtor,Company Owned,Marseiller Strasse,Hamburg,HH,DE,20355,4.94041E+11,GMT+1:00 Europe/Berlin,9.99,53.56
+Starbucks,41028-139505,Gaensemarkt,Company Owned,GAENSEMARKT 21-23,HAMBURG,HH,DE,20354,4.94031E+11,GMT+1:00 Europe/Berlin,9.99,53.55
+Starbucks,41014-106925,Blankeneser Bahnhofplatz,Company Owned,"ERIK-BLUMFELD-PLATZ 2, EUROPA PASSAGE",HAMBURG,HH,DE,22587,4.94024E+11,GMT+1:00 Europe/Berlin,9.81,53.56
 Starbucks,40958-105794,Europa Passage,Company Owned,BALLINDAMM 40,HAMBURG,HH,DE,20095,4076757498,GMT+1:00 Europe/Berlin,10,53.55
-Starbucks,3786-139265,Kohlmarkt 18,Company Owned,"Kohlmarkt 18, SCHLOSS ARKADEN",Braunschweig,NI,DE,38100,495311218831,GMT+1:00 Europe/Berlin,10.52,52.26
-Starbucks,40970-106988,Schloss Arkaden EG,Company Owned,"BOHLWEG 74-75, Ernst August Galerie",BRAUNSCHWEIG,NI,DE,38100,495316128733,GMT+1:00 Europe/Berlin,10.53,52.26
-Starbucks,40995-133885,Ernst August Galerie EG,Company Owned,Ernst-August-Platz 2,Hannover,NI,DE,30159,495111696674,GMT+1:00 Europe/Berlin,9.74,52.38
-Starbucks,17335-177384,Hannover Hauptbahnhof,Company Owned,"Ernst-August-Platz 1, KAMP PROMENADE",Hannover,NI,DE,30159,4951116979755,GMT+1:00 Europe/Berlin,9.74,52.38
-Starbucks,40933-96249,Kamp Promenade,Company Owned,KAMP 47A,OSNABRUECK,NI,DE,49074,495412027373,GMT+1:00 Europe/Berlin,8.05,52.27
-Starbucks,17939-177385,FOC Soltau,Company Owned,Factory Outlet Center,Soltau,NI,DE,29614,4951919739481,GMT+1:00 Europe/Berlin,9.86,52.99
-Starbucks,40917-85687,Aachen Markt,Company Owned,Markt 35,Aachen,NW,DE,52062,492411605218,GMT+1:00 Europe/Berlin,6.08,50.78
-Starbucks,8180-154445,Niedernstrasse 41,Company Owned,Niedernstrasse 41,Bielefeld,NW,DE,33602,4952196750937,GMT+1:00 Europe/Berlin,8.53,52.02
-Starbucks,31090-103074,Dr.Ruer Platz,Company Owned,DR.-RUER-PLATZ 6-7,BOCHUM,NW,DE,44787,492342399143,GMT+1:00 Europe/Berlin,7.22,51.48
+Starbucks,3786-139265,Kohlmarkt 18,Company Owned,"Kohlmarkt 18, SCHLOSS ARKADEN",Braunschweig,NI,DE,38100,4.95311E+11,GMT+1:00 Europe/Berlin,10.52,52.26
+Starbucks,40970-106988,Schloss Arkaden EG,Company Owned,"BOHLWEG 74-75, Ernst August Galerie",BRAUNSCHWEIG,NI,DE,38100,4.95316E+11,GMT+1:00 Europe/Berlin,10.53,52.26
+Starbucks,40995-133885,Ernst August Galerie EG,Company Owned,Ernst-August-Platz 2,Hannover,NI,DE,30159,4.95112E+11,GMT+1:00 Europe/Berlin,9.74,52.38
+Starbucks,17335-177384,Hannover Hauptbahnhof,Company Owned,"Ernst-August-Platz 1, KAMP PROMENADE",Hannover,NI,DE,30159,4.95112E+12,GMT+1:00 Europe/Berlin,9.74,52.38
+Starbucks,40933-96249,Kamp Promenade,Company Owned,KAMP 47A,OSNABRUECK,NI,DE,49074,4.95412E+11,GMT+1:00 Europe/Berlin,8.05,52.27
+Starbucks,17939-177385,FOC Soltau,Company Owned,Factory Outlet Center,Soltau,NI,DE,29614,4.95192E+12,GMT+1:00 Europe/Berlin,9.86,52.99
+Starbucks,40917-85687,Aachen Markt,Company Owned,Markt 35,Aachen,NW,DE,52062,4.92412E+11,GMT+1:00 Europe/Berlin,6.08,50.78
+Starbucks,8180-154445,Niedernstrasse 41,Company Owned,Niedernstrasse 41,Bielefeld,NW,DE,33602,4.9522E+12,GMT+1:00 Europe/Berlin,8.53,52.02
+Starbucks,31090-103074,Dr.Ruer Platz,Company Owned,DR.-RUER-PLATZ 6-7,BOCHUM,NW,DE,44787,4.92342E+11,GMT+1:00 Europe/Berlin,7.22,51.48
 Starbucks,40927-93656,T-Mobile Hauptverwaltung,Company Owned,LANDGRABENWEG 151,BONN,NW,DE,53227,49 228 4101193,GMT+1:00 Europe/Berlin,7.14,50.72
 Starbucks,40957-101630,Muensterplatz,Company Owned,MUENSTERPLATZ 21,BONN,NW,DE,53111,49 228 4330696,GMT+1:00 Europe/Berlin,7.1,50.73
-Starbucks,31032-96695,Sternstrasse 67,Company Owned,STERNSTRASSE 67,BONN,NW,DE,53111,492282808622,GMT+1:00 Europe/Berlin,7.1,50.74
-Starbucks,23603-231505,Neumarkt New,Company Owned,Neumarkt 1a,Cologne,NW,DE,50667,4922125853234,GMT+1:00 Europe/Berlin,6.95,50.94
+Starbucks,31032-96695,Sternstrasse 67,Company Owned,STERNSTRASSE 67,BONN,NW,DE,53111,4.92283E+11,GMT+1:00 Europe/Berlin,7.1,50.74
+Starbucks,23603-231505,Neumarkt New,Company Owned,Neumarkt 1a,Cologne,NW,DE,50667,4.92213E+12,GMT+1:00 Europe/Berlin,6.95,50.94
 Starbucks,40928-89341,Am Hof,Company Owned,"AM HOF 3, RING KARREE",COLOGNE,NW,DE,50667,49 221 2509716,GMT+1:00 Europe/Berlin,6.96,50.94
 Starbucks,40916-83440,Ring Karree,Company Owned,"HOHENZOLLERNRING 70, COLOGNE MAIN STATION",COLOGNE,NW,DE,50672,49 221 1207516,GMT+1:00 Europe/Berlin,6.94,50.94
 Starbucks,30890-99861,Koeln Hauptbahnhof - Colonaden,Company Owned,TRANKGASSE 11,COLOGNE,NW,DE,50667,2211207518,GMT+1:00 Europe/Berlin,6.96,50.94
-Starbucks,40989-107025,Ostenhellweg 19,Company Owned,"OSTENHELLWEG 19, Thier Galerie",DORTMUND,NW,DE,44135,492311385531,GMT+1:00 Europe/Berlin,7.47,51.51
-Starbucks,1260-142311,Thier Galerie,Company Owned,Westenhellweg 102-106,Dortmund,NW,DE,44137,4923195290424,GMT+1:00 Europe/Berlin,7.46,51.51
-Starbucks,31091-104009,Markt 6,Company Owned,"MARKT 6, SCHADOW ARKADEN",DORTMUND,NW,DE,44137,492311087183,GMT+1:00 Europe/Berlin,7.47,51.51
-Starbucks,40920-86243,Schadow Arkaden,Company Owned,"SCHADOWSTRASSE 11, DUESSELDORF MAIN STATION",DUESSELDORF,NW,DE,40212,492111365428,GMT+1:00 Europe/Berlin,6.78,51.23
-Starbucks,40997-115889,Duesseldorf Hauptbahnhof,Company Owned,"KONRAD-ADENAUER-PLATZ 14, SHOP 14",DUESSELDORF,NW,DE,40210,4921116458230,GMT+1:00 Europe/Berlin,6.8,51.22
-Starbucks,40918-83804,Mittelstrasse 9,Company Owned,"Mittelstrasse 9, DUS-DUESSELDORF AIRPORT",Duesseldorf,NW,DE,40213,492111365824,GMT+1:00 Europe/Berlin,6.77,51.22
-Starbucks,30988-102965,DUS - Flughafen Terminal B Landside,Company Owned,"FLUGHAFENSTRASSE 120, TERMINAL B FLUGHAFEN ARKADEN",DUESSELDORF,NW,DE,40474,492111698141,GMT+1:00 Europe/Berlin,6.76,51.28
-Starbucks,18010-179049,Erkrather Strasse,Company Owned,"Erkrather Strasse 364, DUS-DUESSELDORF AIRPORT",Duesseldorf,NW,DE,40231,4921171199047,GMT+1:00 Europe/Berlin,6.82,51.21
-Starbucks,41023-131545,DUS - Flughafen Terminal B Airside,Company Owned,"FLUGHAFENSTRASSE 120, TERMINAL B, GATE B53",DUESSELDORF,NW,DE,40474,4921151629362,GMT+1:00 Europe/Berlin,6.76,51.28
-Starbucks,41002-115973,Forum,Company Owned,KONIGSTRASSE 48,DUISBURG,NW,DE,47051,492039355958,GMT+1:00 Europe/Berlin,6.77,51.43
-Starbucks,40950-104073,City Palais,Company Owned,"KÖNIGSTRAßE 39, DUISBURG MAIN STATION",DUISBURG,NW,DE,47051,492032809057,GMT+1:00 Europe/Berlin,6.77,51.43
-Starbucks,40983-111895,Duisburg Hauptbahnhof,Company Owned,MERCATORSTRASSE 19-25,DUISBURG,NW,DE,47051,492032809059,GMT+1:00 Europe/Berlin,6.77,51.43
-Starbucks,3771-146187,Essen Hauptbahnhof,Company Owned,Am Hauptbahnhof 5,Essen,NW,DE,45130,4920110228578,GMT+1:00 Europe/Berlin,7.01,51.45
-Starbucks,40914-82745,Theaterplatz,Company Owned,"THEATERPLATZ 1, LIMBECKER PLATZ",ESSEN,NW,DE,45127,492011752932,GMT+1:00 Europe/Berlin,7.01,51.45
-Starbucks,41003-104068,Limbecker Platz OG - 1.19,Company Owned,"LIMBECKER PLATZ 1A, SHOP 1.19",ESSEN,NW,DE,45127,492012698799,GMT+1:00 Europe/Berlin,7,51.46
+Starbucks,40989-107025,Ostenhellweg 19,Company Owned,"OSTENHELLWEG 19, Thier Galerie",DORTMUND,NW,DE,44135,4.92311E+11,GMT+1:00 Europe/Berlin,7.47,51.51
+Starbucks,1260-142311,Thier Galerie,Company Owned,Westenhellweg 102-106,Dortmund,NW,DE,44137,4.9232E+12,GMT+1:00 Europe/Berlin,7.46,51.51
+Starbucks,31091-104009,Markt 6,Company Owned,"MARKT 6, SCHADOW ARKADEN",DORTMUND,NW,DE,44137,4.92311E+11,GMT+1:00 Europe/Berlin,7.47,51.51
+Starbucks,40920-86243,Schadow Arkaden,Company Owned,"SCHADOWSTRASSE 11, DUESSELDORF MAIN STATION",DUESSELDORF,NW,DE,40212,4.92111E+11,GMT+1:00 Europe/Berlin,6.78,51.23
+Starbucks,40997-115889,Duesseldorf Hauptbahnhof,Company Owned,"KONRAD-ADENAUER-PLATZ 14, SHOP 14",DUESSELDORF,NW,DE,40210,4.92112E+12,GMT+1:00 Europe/Berlin,6.8,51.22
+Starbucks,40918-83804,Mittelstrasse 9,Company Owned,"Mittelstrasse 9, DUS-DUESSELDORF AIRPORT",Duesseldorf,NW,DE,40213,4.92111E+11,GMT+1:00 Europe/Berlin,6.77,51.22
+Starbucks,30988-102965,DUS - Flughafen Terminal B Landside,Company Owned,"FLUGHAFENSTRASSE 120, TERMINAL B FLUGHAFEN ARKADEN",DUESSELDORF,NW,DE,40474,4.92112E+11,GMT+1:00 Europe/Berlin,6.76,51.28
+Starbucks,18010-179049,Erkrather Strasse,Company Owned,"Erkrather Strasse 364, DUS-DUESSELDORF AIRPORT",Duesseldorf,NW,DE,40231,4.92117E+12,GMT+1:00 Europe/Berlin,6.82,51.21
+Starbucks,41023-131545,DUS - Flughafen Terminal B Airside,Company Owned,"FLUGHAFENSTRASSE 120, TERMINAL B, GATE B53",DUESSELDORF,NW,DE,40474,4.92115E+12,GMT+1:00 Europe/Berlin,6.76,51.28
+Starbucks,41002-115973,Forum,Company Owned,KONIGSTRASSE 48,DUISBURG,NW,DE,47051,4.92039E+11,GMT+1:00 Europe/Berlin,6.77,51.43
+Starbucks,40950-104073,City Palais,Company Owned,"KÖNIGSTRAßE 39, DUISBURG MAIN STATION",DUISBURG,NW,DE,47051,4.92033E+11,GMT+1:00 Europe/Berlin,6.77,51.43
+Starbucks,40983-111895,Duisburg Hauptbahnhof,Company Owned,MERCATORSTRASSE 19-25,DUISBURG,NW,DE,47051,4.92033E+11,GMT+1:00 Europe/Berlin,6.77,51.43
+Starbucks,3771-146187,Essen Hauptbahnhof,Company Owned,Am Hauptbahnhof 5,Essen,NW,DE,45130,4.92011E+12,GMT+1:00 Europe/Berlin,7.01,51.45
+Starbucks,40914-82745,Theaterplatz,Company Owned,"THEATERPLATZ 1, LIMBECKER PLATZ",ESSEN,NW,DE,45127,4.92012E+11,GMT+1:00 Europe/Berlin,7.01,51.45
+Starbucks,41003-104068,Limbecker Platz OG - 1.19,Company Owned,"LIMBECKER PLATZ 1A, SHOP 1.19",ESSEN,NW,DE,45127,4.92013E+11,GMT+1:00 Europe/Berlin,7,51.46
 Starbucks,41005-103118,Rhein Center,Company Owned,"AACHENER STRASSE 1253, CGN-COLOGNE AIRPORT",KÖLN,NW,DE,50858,49 2234 9676074,GMT+1:00 Europe/Berlin,6.84,50.94
 Starbucks,41030-120864,CGN - Flughafen Koln Bonn T 1,Company Owned,"TERMINAL 1, CGN-COLOGNE AIRPORT",KÖLN,NW,DE,51147,49 2203 9253462,GMT+1:00 Europe/Berlin,7.12,50.88
-Starbucks,41031-115988,Rathaus Galerie,Company Owned,"Friedrich-Ebert-Platz 1, RHEIN RUHR ZENTRUM",Leverkusen,NW,DE,51373,492148405810,GMT+1:00 Europe/Berlin,6.98,51.03
-Starbucks,40906-81900,Rhein Ruhr Zentrum,Company Owned,HUMBOLDTRING 5,MUELHEIM,NW,DE,45472,492084951341,GMT+1:00 Europe/Berlin,6.95,51.44
-Starbucks,41020-120104,Hanse Carree,Company Owned,"HANSE CARREE, CENTRO-ALLEE / A010 5",MÜNSTER,NW,DE,48143,492511625490,GMT+1:00 Europe/Berlin,7.63,51.96
-Starbucks,40938-99185,CentrO Ground Floor,Company Owned,"CENTRO MALL - OBERHAUSEN, GROUND FLOOR, CENTRO",OBERHAUSEN,NW,DE,46047,492082993456,GMT+1:00 Europe/Berlin,6.88,51.49
-Starbucks,41021-129904,Centro Oase,Company Owned,"CENTRO-ALLEE 5, GROUND FLOOR - SHOP G012, CENTRO-ALLEE / A010 5",OBERHAUSEN,NW,DE,46047,492082993812,GMT+1:00 Europe/Berlin,6.88,51.49
-Starbucks,40938-99005,CentrO Ground Floor,Company Owned,"CENTRO MALL - OBERHAUSEN, GROUND FLOOR",OBERHAUSEN,NW,DE,46047,492082993456,GMT+1:00 Europe/Berlin,6.88,51.49
-Starbucks,41015-115995,Neumarkt 5-11,Company Owned,NEUMARKT 5-7,WUPPERTAL,NW,DE,42103,492022441079,GMT+1:00 Europe/Berlin,7.15,51.26
+Starbucks,41031-115988,Rathaus Galerie,Company Owned,"Friedrich-Ebert-Platz 1, RHEIN RUHR ZENTRUM",Leverkusen,NW,DE,51373,4.92148E+11,GMT+1:00 Europe/Berlin,6.98,51.03
+Starbucks,40906-81900,Rhein Ruhr Zentrum,Company Owned,HUMBOLDTRING 5,MUELHEIM,NW,DE,45472,4.92085E+11,GMT+1:00 Europe/Berlin,6.95,51.44
+Starbucks,41020-120104,Hanse Carree,Company Owned,"HANSE CARREE, CENTRO-ALLEE / A010 5",MÜNSTER,NW,DE,48143,4.92512E+11,GMT+1:00 Europe/Berlin,7.63,51.96
+Starbucks,40938-99185,CentrO Ground Floor,Company Owned,"CENTRO MALL - OBERHAUSEN, GROUND FLOOR, CENTRO",OBERHAUSEN,NW,DE,46047,4.92083E+11,GMT+1:00 Europe/Berlin,6.88,51.49
+Starbucks,41021-129904,Centro Oase,Company Owned,"CENTRO-ALLEE 5, GROUND FLOOR - SHOP G012, CENTRO-ALLEE / A010 5",OBERHAUSEN,NW,DE,46047,4.92083E+11,GMT+1:00 Europe/Berlin,6.88,51.49
+Starbucks,40938-99005,CentrO Ground Floor,Company Owned,"CENTRO MALL - OBERHAUSEN, GROUND FLOOR",OBERHAUSEN,NW,DE,46047,4.92083E+11,GMT+1:00 Europe/Berlin,6.88,51.49
+Starbucks,41015-115995,Neumarkt 5-11,Company Owned,NEUMARKT 5-7,WUPPERTAL,NW,DE,42103,4.92022E+11,GMT+1:00 Europe/Berlin,7.15,51.26
 Starbucks,26810-245685,Brohltal West A61 Niederzissen,Licensed," A61, 56651 Niederzissen, (Highway Roadside)", Niederzissen,RP,DE,56651,,GMT+1:00 Europe/Berlin,7.22,50.44
-Starbucks,17954-178444,Forum Mittelrhein,Company Owned,Goergenstrasse,Koblenz,RP,DE,56068,4926197349840,GMT+1:00 Europe/Berlin,7.6,50.36
-Starbucks,1190-127384,Mainz Hauptbahnhof,Company Owned,Bahnhofsplatz 1,Mainz,RP,DE,55116,4961311431478,GMT+1:00 Europe/Berlin,8.26,50
+Starbucks,17954-178444,Forum Mittelrhein,Company Owned,Goergenstrasse,Koblenz,RP,DE,56068,4.9262E+12,GMT+1:00 Europe/Berlin,7.6,50.36
+Starbucks,1190-127384,Mainz Hauptbahnhof,Company Owned,Bahnhofsplatz 1,Mainz,RP,DE,55116,4.96131E+12,GMT+1:00 Europe/Berlin,8.26,50
 Starbucks,26809-245684,Fernthal A3 Neustadt-Wied,Licensed,"D-53577 Neustadt / Wied, Highway Roadside",Neustadt Wied,RP,DE,53577,,GMT+1:00 Europe/Berlin,7.45,50.59
-Starbucks,20865-208324,KMCC Ramstein,Licensed,"KMCC Mall, Bldg 3336",Ramstein,RP,DE,66877,4963715959491,GMT+1:00 Europe/Berlin,7.55,49.45
-Starbucks,18272-189445,AAFES Spangdahlem,Licensed,"Arnold Boulevard, Bld 173, Xchange At Spangdahlem",Spangdahlem,RP,DE,54529,4965651228400,GMT+1:00 Europe/Berlin,6.69,49.99
-Starbucks,41032-133887,Berliner Platz 5,Company Owned,"Berliner Platz 5, Hamburg Designer Outlet",Kiel,SH,DE,24103,494312371737,GMT+1:00 Europe/Berlin,10.14,54.32
-Starbucks,17828-178566,FOC Hamburg,Company Owned,Oderstrasse 11,Neumunster,SH,DE,24539,4943215562342,GMT+1:00 Europe/Berlin,9.98,54.04
-Starbucks,1571-142326,Bahnhofstrasse 60,Company Owned,Bahnhofstrasse 60,Saarbruecken,SL,DE,66111,496813798448,GMT+1:00 Europe/Berlin,6.99,49.24
-Starbucks,1194-124550,Europa Galerie,Company Owned,Europa Galerie,Saarbruecken,SL,DE,66111,4968176180666,GMT+1:00 Europe/Berlin,6.99,49.24
-Starbucks,1251-139305,Altmarkt,Company Owned,Altmarkt 7,Dresden,SN,DE,1067,4935143833967,GMT+1:00 Europe/Berlin,13.74,51.05
-Starbucks,20604-161924,Dresden Hauptbahnhof,Company Owned,Wiener Platz 4,Dresden,SN,DE,1069,4935142776967,GMT+1:00 Europe/Berlin,13.73,51.04
-Starbucks,1197-133645,Centrum Galerie,Company Owned,Prager Strasse 15,Dresden,SN,DE,1069,493514850950,GMT+1:00 Europe/Berlin,13.74,51.04
-Starbucks,17860-181705,Leipzig Hauptbahnhof,Company Owned,Willy-Brandt-Platz 7,Leipzig,SN,DE,4109,4934196298335,GMT+1:00 Europe/Berlin,12.38,51.34
-Starbucks,40999-115960,Grimmaische Strasse 14,Company Owned,GRIMMAISCHE STRASSE 14,LEIPZIG,SN,DE,4109,493412251481,GMT+1:00 Europe/Berlin,12.38,51.34
-Starbucks,24196-236564,Erfurt Central Station,Licensed,Willy-Brandt-Platz 12,Erfurt,TH,DE,99084,4936164432135,GMT+1:00 Europe/Berlin,11.04,50.97
+Starbucks,20865-208324,KMCC Ramstein,Licensed,"KMCC Mall, Bldg 3336",Ramstein,RP,DE,66877,4.96372E+12,GMT+1:00 Europe/Berlin,7.55,49.45
+Starbucks,18272-189445,AAFES Spangdahlem,Licensed,"Arnold Boulevard, Bld 173, Xchange At Spangdahlem",Spangdahlem,RP,DE,54529,4.96565E+12,GMT+1:00 Europe/Berlin,6.69,49.99
+Starbucks,41032-133887,Berliner Platz 5,Company Owned,"Berliner Platz 5, Hamburg Designer Outlet",Kiel,SH,DE,24103,4.94312E+11,GMT+1:00 Europe/Berlin,10.14,54.32
+Starbucks,17828-178566,FOC Hamburg,Company Owned,Oderstrasse 11,Neumunster,SH,DE,24539,4.94322E+12,GMT+1:00 Europe/Berlin,9.98,54.04
+Starbucks,1571-142326,Bahnhofstrasse 60,Company Owned,Bahnhofstrasse 60,Saarbruecken,SL,DE,66111,4.96814E+11,GMT+1:00 Europe/Berlin,6.99,49.24
+Starbucks,1194-124550,Europa Galerie,Company Owned,Europa Galerie,Saarbruecken,SL,DE,66111,4.96818E+12,GMT+1:00 Europe/Berlin,6.99,49.24
+Starbucks,1251-139305,Altmarkt,Company Owned,Altmarkt 7,Dresden,SN,DE,1067,4.93514E+12,GMT+1:00 Europe/Berlin,13.74,51.05
+Starbucks,20604-161924,Dresden Hauptbahnhof,Company Owned,Wiener Platz 4,Dresden,SN,DE,1069,4.93514E+12,GMT+1:00 Europe/Berlin,13.73,51.04
+Starbucks,1197-133645,Centrum Galerie,Company Owned,Prager Strasse 15,Dresden,SN,DE,1069,4.93515E+11,GMT+1:00 Europe/Berlin,13.74,51.04
+Starbucks,17860-181705,Leipzig Hauptbahnhof,Company Owned,Willy-Brandt-Platz 7,Leipzig,SN,DE,4109,4.9342E+12,GMT+1:00 Europe/Berlin,12.38,51.34
+Starbucks,40999-115960,Grimmaische Strasse 14,Company Owned,GRIMMAISCHE STRASSE 14,LEIPZIG,SN,DE,4109,4.93412E+11,GMT+1:00 Europe/Berlin,12.38,51.34
+Starbucks,24196-236564,Erfurt Central Station,Licensed,Willy-Brandt-Platz 12,Erfurt,TH,DE,99084,4.93616E+12,GMT+1:00 Europe/Berlin,11.04,50.97
 Starbucks,26965-246246,Copenhagen-Frederiksborggade,Licensed,Frederiksborggade 15,Copenhagen,15,DK,1360,,GMT+1:00 Europe/Copenhagen,12.57,55.68
 Starbucks,29323-251026,Copenhagen - Trianglen,Licensed,Trianglen 2-4,Copenhagen,15,DK,2100,,GMT+1:00 Europe/Copenhagen,12.58,55.7
 Starbucks,25903-242948,Copenhagen Fisketorvet Fotex,Licensed,Kalvebod brygge 59,Copenhagen,15,DK,1560,,GMT+1:00 Europe/Copenhagen,12.51,55.68
@@ -5083,7 +5083,7 @@ Starbucks,27462-247749,Gameit Eldowal,Licensed,"Gamiet Eldowal Street, Mohandese
 Starbucks,15432-161465,Dandy Mega Mall,Licensed,"Alex Dandy Mega Mall, Alex desert Road - Kilo 28",Cairo,C,EG,,02 01222887982,GMT+2:00 Africa/Cairo,29.75,31.08
 Starbucks,19743-200006,Cairo Festival City,Licensed,"Ring rd and 90th, New Cairo",Cairo,C,EG,,,GMT+2:00 Africa/Cairo,31.35,29.98
 Starbucks,25470-241149,Porto Cairo Mall,Licensed,"The Ring Road, New Cairo, New Cairo, First settlment, Ring Road",Cairo,C,EG,,,GMT+2:00 Africa/Cairo,31.33,29.98
-Starbucks,15599-157707,Sun City Mall,Licensed,"Sun City, Nasr St. Nasr City, Air Side, Arrivals",Cairo,C,EG,,201201605271,GMT+2:00 Africa/Cairo,31.38,30.02
+Starbucks,15599-157707,Sun City Mall,Licensed,"Sun City, Nasr St. Nasr City, Air Side, Arrivals",Cairo,C,EG,,2.01202E+11,GMT+2:00 Africa/Cairo,31.38,30.02
 Starbucks,16894-171864,Zayed Dome,Licensed,"Zayed Dome complex-block no 8-part 3, District 2.  El Sheikh Zayed.",Cairo,C,EG,,,GMT+2:00 Africa/Cairo,31.21,30.01
 Starbucks,16565-172944,Katameya Downtown,Licensed,"Street 90, New Cairo",Cairo,C,EG,,,GMT+2:00 Africa/Cairo,31.23,30.03
 Starbucks,26786-245544,City Square - Cairo,Licensed,"CITY Square Mall - Al Rehab City, New Cairo, أبراج النايل سيتى",Cairo,C,EG,,,GMT+2:00 Africa/Cairo,31.24,30.04
@@ -5205,7 +5205,7 @@ Starbucks,16734-170725,HEL - T2 Landside,Licensed,Helsinki-Vantaa Airport Termin
 Starbucks,26807-245687,Espoo K-Citymarket Sello Shopping C,Licensed,Leppavaarankatu 3,Espoo,18,FI,2600,,GMT+2:00 Europe/Helsinki,24.81,60.22
 Starbucks,27859-248941,Helsinki Kamppi,Licensed,Urho Kekkosen katu 1,Helsinki,18,FI,100,,GMT+2:00 Europe/Helsinki,24.93,60.17
 Starbucks,19759-193389,Stockmann Bookstore,Licensed,Esplanadi 39,Helsinki,18,FI,130,,GMT+2:00 Europe/Helsinki,24.94,60.17
-Starbucks,47162-253308,Helsinki - Itis,Licensed,Itakatu 1-7,Helsinki,ES,FI,930,358207629602,GMT+2:00 Europe/Helsinki,25.08,60.21
+Starbucks,47162-253308,Helsinki - Itis,Licensed,Itakatu 1-7,Helsinki,ES,FI,930,3.58208E+11,GMT+2:00 Europe/Helsinki,25.08,60.21
 Starbucks,29582-251028,Vantaa K-citymarket Jumbo,Licensed,Vantaanportinkatu 3,Vantaa,ES,FI,1510,,GMT+2:00 Europe/Helsinki,24.96,60.29
 Starbucks,29581-251027,Myyrmanni K,Licensed,Iskoskuja 3,Vantaa,ES,FI,1600,,GMT+2:00 Europe/Helsinki,24.85,60.26
 Starbucks,27750-248649,Rue du Sauvage,Franchise,40 rue du sauvage,Mulhouse,A,FR,68100,,GMT+1:00 Europe/Paris,7.34,47.75
@@ -5317,7 +5317,7 @@ Starbucks,29304-253250,Ste Croix,Franchise,14 rue de la Barillerie,Nantes,R,FR,4
 Starbucks,27757-248645,Cours Des 50 Otages,Franchise,4 allée Cassard,Nantes,R,FR,44000,,GMT+1:00 Europe/Paris,-1.56,47.21
 Starbucks,48594-263564,Place Jean Jaures,Franchise,5 place Jean Jaures,Tours,R,FR,37000,,GMT+1:00 Europe/Paris,0.69,47.39
 Starbucks,27504-247884,Beauvais Airport,Licensed,Aéroport de Beauvais Tillé,Tillé,S,FR,60000,,GMT+1:00 Europe/Paris,2.11,49.46
-Starbucks,27981-230406,Gare de Cannes,Licensed,"1, rue Jean Jaures",Cannes,U,FR,6400,330493390681,GMT+1:00 Europe/Paris,7.02,43.55
+Starbucks,27981-230406,Gare de Cannes,Licensed,"1, rue Jean Jaures",Cannes,U,FR,6400,3.30493E+11,GMT+1:00 Europe/Paris,7.02,43.55
 Starbucks,17367-177135,Marseille Provence Airport H 1,Licensed,"Aeroport Marseille Provence, Hall 1",Marignane,U,FR,13700,,GMT+1:00 Europe/Paris,5.22,43.42
 Starbucks,17739-177138,Marseille Provence Airport H 4,Licensed,"Bp 156 Aeroport, Hall 4",Marignane,U,FR,13729,,GMT+1:00 Europe/Paris,5.21,43.42
 Starbucks,1753-143004,17 Marseille Republique,Company Owned,17 RUE DE LA REPUBLIQUE.,MARSEILLE,U,FR,13002,491907486,GMT+1:00 Europe/Paris,5.37,43.3
@@ -6267,7 +6267,7 @@ Starbucks,31828-104397,Aristotelous Square,Licensed,Nikis 11 & Aristotelous,Thes
 Starbucks,42420-95464,Myconos,Licensed,Nea Periferiaki Odos Mykonou,Mykonos,L,GR,84600,2289-0-28404,GMT+2:00 Europe/Athens,25.33,37.44
 Starbucks,32588-136873,Ethn Makariou Street,Licensed,"8, Ethnarhou Makariou Street",Rhodes,L,GR,,,GMT+2:00 Europe/Athens,28.22,36.45
 Starbucks,32500-122117,Chania Old Port,Licensed,"98 Tsimiski, Chania",Crete,M,GR,,,GMT+2:00 Europe/Athens,24.02,35.52
-Starbucks,31791-108572,Heraklion Talos Mall	 4,Licensed,"Venizelou Street & Minoos Street, Crete",Heraklion,M,GR,,,GMT+2:00 Europe/Athens,25.12,35.34
+Starbucks,31791-108572,"Heraklion Talos Mall	 4",Licensed,"Venizelou Street & Minoos Street, Crete",Heraklion,M,GR,,,GMT+2:00 Europe/Athens,25.12,35.34
 Starbucks,31826-115604,Heraklion 25th August,Licensed,"42, 25th August Street",Heraklion,M,GR,,,GMT+2:00 Europe/Athens,25.13,35.34
 Starbucks,32263-131865,6 Androgeo Street,Licensed,"6 Androgeo Street, Lobby",Heraklion,M,GR,,,GMT+2:00 Europe/Athens,25.13,35.34
 Starbucks,26819-245706,Miraflores,Licensed,"10 calle, Zona 9",Guatemala,GU,GT,,,GMT+000000 America/Tegucigalpa,-90.56,14.62
@@ -7979,7 +7979,7 @@ Starbucks,32396-137535,Okinawa Yomitan,Joint Venture,639-1 Furugen,Yomitanson,47
 Starbucks,47303-255586,Aeon Mall,Licensed,"G/F, Lot-E0014 Aeon Mall, Phnom Penh",Phnom Penh,12,KH,,,GMT+000000 Asia/Phnom_Penh,104.93,11.55
 Starbucks,47086-249506,Airport Departure Hall,Licensed,"Open Space, Phnom Penh International, Airport, Phnom Penh, Cambodia",Phnom Penh,12,KH,,,GMT+000000 Asia/Phnom_Penh,104.84,11.55
 Starbucks,50744-267984,TK Avenue,Licensed,"Lot No. FT1, TK Avenue,, Phnom Penh, Cambodia",Phnom Penh,12,KH,0,,GMT+000000 Asia/Phnom_Penh,104.9,11.58
-Starbucks,47295-255587,BKK Flagship,Licensed,"#14, St. 57 & 288, Sangkat Boeung Keng, Kang Area 1, Cambodia.",Phnom Penh,12,KH,,855093897784,GMT+000000 Asia/Phnom_Penh,104.93,11.55
+Starbucks,47295-255587,BKK Flagship,Licensed,"#14, St. 57 & 288, Sangkat Boeung Keng, Kang Area 1, Cambodia.",Phnom Penh,12,KH,,8.55094E+11,GMT+000000 Asia/Phnom_Penh,104.93,11.55
 Starbucks,20644-207432,Lafesta Square,Joint Venture,"770-1, Janghangdong, Ilsandonggu, Goyangshi, Gyeonnggido",Gyeonggido,11,KR,410-380,,GMT+09:00 Asia/Seoul,126.46,37.39
 Starbucks,28417-250406,bangbae cafe golmok,Joint Venture,777-11 bangbae-dong,seocho-gu,11,KR,137-829,,GMT+09:00 Asia/Seoul,126.99,37.49
 Starbucks,19176-199455,Wolgae Emart,Joint Venture,"333-1 Wolgae3dong, Nowongu, Seoul",Seoul,11,KR,139-050,,GMT+09:00 Asia/Seoul,127.06,37.63
@@ -8261,15 +8261,15 @@ Starbucks,34447-75122,문화일보점,Joint Venture,문화일보사건물 1층,�
 Starbucks,5156-148608,건대입구점,Joint Venture,5-47,서울,11,KR,143-130,02-758-8305,GMT+09:00 Asia/Seoul,127.07,37.54
 Starbucks,1559-152969,강서아이파크점,Joint Venture,1095 강서 그랜드 아이파크,서울,11,KR,157-927,02-758-8347,GMT+09:00 Asia/Seoul,126.85,37.55
 Starbucks,31966-126384,마포아크로타워점,Joint Venture,176-2,서울,11,KR,121-040,02-758-8217,GMT+09:00 Asia/Seoul,126.95,37.54
-Starbucks,30976-103542,광교점,Joint Venture,43-9,서울,11,KR,110-111,02-758-8154,GMT+09:00 Asia/Seoul,126.98,37.57
+Starbucks,30976-103542,광교점,Joint Venture,Sep-43,서울,11,KR,110-111,02-758-8154,GMT+09:00 Asia/Seoul,126.98,37.57
 Starbucks,31051-103901,자양점,Joint Venture,510-5,서울,11,KR,143-190,02-758-8159,GMT+09:00 Asia/Seoul,127.07,37.54
 Starbucks,32199-132404,압구정2점,Joint Venture,635-13,서울,11,KR,613-010,02-758-8231,GMT+09:00 Asia/Seoul,127.03,37.53
 Starbucks,34501-96816,학동역점,Joint Venture,87,서울,11,KR,135-010,02-758-8101,GMT+09:00 Asia/Seoul,127.03,37.51
 Starbucks,8151-151225,문래동점,Joint Venture,77-1 대창타운빌 1층,서울,11,KR,150-836,02-758-8324,GMT+09:00 Asia/Seoul,126.89,37.52
 Starbucks,34504-97043,수유역점,Joint Venture,418-17,서울,11,KR,142-060,02-758-8104,GMT+09:00 Asia/Seoul,127.03,37.64
-Starbucks,31407-106772,주얼리시티점,Joint Venture,48-2,서울,11,KR,110-410,02-6744-4882,GMT+09:00 Asia/Seoul,127,37.57
+Starbucks,31407-106772,주얼리시티점,Joint Venture,Feb-48,서울,11,KR,110-410,02-6744-4882,GMT+09:00 Asia/Seoul,127,37.57
 Starbucks,30955-103324,숭실대점,Joint Venture,501-9,서울,11,KR,156-030,02-758-8153,GMT+09:00 Asia/Seoul,126.95,37.5
-Starbucks,3583-145665,천호역점,Joint Venture,62-4,서울,11,KR,134-030,02-758-8296,GMT+09:00 Asia/Seoul,127.12,37.54
+Starbucks,3583-145665,천호역점,Joint Venture,Apr-62,서울,11,KR,134-030,02-758-8296,GMT+09:00 Asia/Seoul,127.12,37.54
 Starbucks,34517-98930,하이브랜드점,Joint Venture,215 리빙관 101호,서울,11,KR,137-893,02-2155-4117,GMT+09:00 Asia/Seoul,127.04,37.46
 Starbucks,31513-108184,숙대점,Joint Venture,111-35,서울,11,KR,140-133,02-758-8191,GMT+09:00 Asia/Seoul,126.97,37.54
 Starbucks,34432-139286,뉴코아강남점,Joint Venture,70-2 뉴코아 1층,서울,11,KR,137-030,02-758-8032,GMT+09:00 Asia/Seoul,127.01,37.51
@@ -8282,10 +8282,10 @@ Starbucks,32731-140609,마포일진빌딩점,Joint Venture,50-1 일진빌딩 1�
 Starbucks,32531-136565,성대점,Joint Venture,154-3,서울,11,KR,110-523,02-758-8249,GMT+09:00 Asia/Seoul,127,37.58
 Starbucks,34516-98562,큰길타워점,Joint Venture,677-25 큰길타워,서울,11,KR,135-080,02-758-8116,GMT+09:00 Asia/Seoul,127.04,37.5
 Starbucks,34520-99420,대치역점,Joint Venture,507 원플러스상가 107호,서울,11,KR,135-280,02-758-8120,GMT+09:00 Asia/Seoul,127.06,37.49
-Starbucks,30734-101522,은평이마트점,Joint Venture,90-1,서울,11,KR,122-010,02-758-8139,GMT+09:00 Asia/Seoul,126.92,37.6
+Starbucks,30734-101522,은평이마트점,Joint Venture,Jan-90,서울,11,KR,122-010,02-758-8139,GMT+09:00 Asia/Seoul,126.92,37.6
 Starbucks,34436-49619,광화문점,Joint Venture,185-2 현대해상본사사옥 별관내,서울,11,KR,110-050,02-758-8036,GMT+09:00 Asia/Seoul,126.98,37.57
 Starbucks,3731-146085,종로3가점,Joint Venture,9-3 1-4층,서울,11,KR,110-123,02-758-8339,GMT+09:00 Asia/Seoul,126.99,37.57
-Starbucks,34401-12931,이대점,Joint Venture,54-4,서울,11,KR,120-170,02-758-8001,GMT+09:00 Asia/Seoul,126.95,37.56
+Starbucks,34401-12931,이대점,Joint Venture,Apr-54,서울,11,KR,120-170,02-758-8001,GMT+09:00 Asia/Seoul,126.95,37.56
 Starbucks,6046-154163,구로하이엔드점,Joint Venture,235-2 에이스하이엔드타워 103호,서울,11,KR,152-740,02-758-8340,GMT+09:00 Asia/Seoul,126.89,37.48
 Starbucks,34509-97836,압구정미소빌딩점,Joint Venture,583-3,서울,11,KR,135-120,02-758-8109,GMT+09:00 Asia/Seoul,127.03,37.52
 Starbucks,31402-107503,서소문점,Joint Venture,90,서울,11,KR,100-814,02-758-8181,GMT+09:00 Asia/Seoul,126.98,37.56
@@ -8302,12 +8302,12 @@ Starbucks,13124-154887,경희대점,Joint Venture,16-41,서울,11,KR,130-872,02-
 Starbucks,1978-144328,영동2교점,Joint Venture,4-3 대흥빌딩,서울,11,KR,137-130,02-758-8291,GMT+09:00 Asia/Seoul,127.04,37.48
 Starbucks,4194-154009,충정타워점,Joint Venture,464 충정타워 1층,서울,11,KR,120-723,02-758-8333,GMT+09:00 Asia/Seoul,126.96,37.56
 Starbucks,34415-30559,한양대점,Joint Venture,"31-410,11 경희빌딩 1,2층",서울,11,KR,133-070,02-758-8015,GMT+09:00 Asia/Seoul,127.04,37.56
-Starbucks,31155-105088,새종로점,Joint Venture,14-5,서울,11,KR,110-111,02-758-8168,GMT+09:00 Asia/Seoul,126.99,37.57
+Starbucks,31155-105088,새종로점,Joint Venture,14-May,서울,11,KR,110-111,02-758-8168,GMT+09:00 Asia/Seoul,126.99,37.57
 Starbucks,31190-105089,종각점,Joint Venture,2가84-10,서울,11,KR,110-122,02-758-8169,GMT+09:00 Asia/Seoul,126.98,37.57
 Starbucks,30945-103326,학여울역점,Joint Venture,994-10,서울,11,KR,135-280,02-758-8151,GMT+09:00 Asia/Seoul,127.07,37.5
 Starbucks,3522-153164,석촌역점,Joint Venture,286-9 우전빌딩 1층,서울,11,KR,138-847,02-758-8350,GMT+09:00 Asia/Seoul,127.11,37.5
 Starbucks,3042-144888,홍대갤러리점,Joint Venture,343-10 정명빌딩,서울,11,KR,121-210,02-758-8293,GMT+09:00 Asia/Seoul,126.92,37.55
-Starbucks,34407-27793,여의도점,Joint Venture,23-9,서울,11,KR,150-010,02-758-8007,GMT+09:00 Asia/Seoul,126.92,37.52
+Starbucks,34407-27793,여의도점,Joint Venture,23-Sep,서울,11,KR,150-010,02-758-8007,GMT+09:00 Asia/Seoul,126.92,37.52
 Starbucks,31858-120004,강남삼성타운점,Joint Venture,1327-5,서울,11,KR,137-070,02-758-8213,GMT+09:00 Asia/Seoul,127.03,37.5
 Starbucks,1924-159004,이마트본사점,Joint Venture,333-16,서울,11,KR,133-120,,GMT+09:00 Asia/Seoul,127.05,37.54
 Starbucks,34413-42519,압구정역점,Joint Venture,580-2 관영빌딩 1층 지하1층,서울,11,KR,135-892,02-758-8013,GMT+09:00 Asia/Seoul,127.03,37.53
@@ -8335,7 +8335,7 @@ Starbucks,30648-101339,반포역점,Joint Venture,58-24,서울,11,KR,137-030,02-
 Starbucks,2015-143930,남산단암점,Joint Venture,단암빌딩120,서울,11,KR,100-704,02-758-8306,GMT+09:00 Asia/Seoul,126.98,37.56
 Starbucks,32488-137393,연세세브란스종합관,Joint Venture,134 성산로 250 연세세브란스종합관,서울,11,KR,120-140,02-758-8244,GMT+09:00 Asia/Seoul,126.94,37.56
 Starbucks,34428-66325,선릉점,Joint Venture,889-70 세화빌딩 1층,서울,11,KR,135-284,02-758-8028,GMT+09:00 Asia/Seoul,127.05,37.5
-Starbucks,32673-139592,서래마을입구점,Joint Venture,92-1,서울,11,KR,137-044,02-3482-8257,GMT+09:00 Asia/Seoul,127,37.5
+Starbucks,32673-139592,서래마을입구점,Joint Venture,Jan-92,서울,11,KR,137-044,02-3482-8257,GMT+09:00 Asia/Seoul,127,37.5
 Starbucks,31655-113087,현대미아점,Joint Venture,20-1 현대백화점 미아점 지하 1층,서울,11,KR,136-719,02-758-8203,GMT+09:00 Asia/Seoul,127.03,37.61
 Starbucks,34467-91324,고대점,Joint Venture,104-30,서울,11,KR,136-075,02-758-8067,GMT+09:00 Asia/Seoul,127.03,37.58
 Starbucks,34492-96138,신세계아이앤씨점,Joint Venture,197-12 신세계아이엔씨,서울,11,KR,152-050,02-758-8092,GMT+09:00 Asia/Seoul,126.89,37.49
@@ -8346,12 +8346,12 @@ Starbucks,34477-139285,잠실역점,Joint Venture,"한빛프라자7-17 1층, 2�
 Starbucks,32140-131265,남부터미널2점,Joint Venture,1457-1,서울,11,KR,137-070,02-758-8229,GMT+09:00 Asia/Seoul,127.01,37.48
 Starbucks,32706-139626,동빙고점,Joint Venture,"10-8, 7-33",서울,11,KR,140-230,02-798-8262,GMT+09:00 Asia/Seoul,126.99,37.53
 Starbucks,6097-148904,사당역점,Joint Venture,1031-27 양지빌딩 1-2층,서울,11,KR,156-090,02-758-8311,GMT+09:00 Asia/Seoul,126.98,37.48
-Starbucks,30647-100861,소공동점,Joint Venture,87-10,서울,11,KR,100-070,02-758-8140,GMT+09:00 Asia/Seoul,126.98,37.56
+Starbucks,30647-100861,소공동점,Joint Venture,Oct-87,서울,11,KR,100-070,02-758-8140,GMT+09:00 Asia/Seoul,126.98,37.56
 Starbucks,34463-87283,대치점,Joint Venture,988-17,서울,11,KR,135-283,02-758-8063,GMT+09:00 Asia/Seoul,127.06,37.5
 Starbucks,34490-95634,신촌대로점,Joint Venture,20-41,서울,11,KR,120-833,02-758-8090,GMT+09:00 Asia/Seoul,126.94,37.56
 Starbucks,34452-149893,대우증권점,Joint Venture,34-3 대우증권빌딩1층,서울,11,KR,150-716,02-758-8052,GMT+09:00 Asia/Seoul,126.93,37.52
 Starbucks,34481-94509,강남2호점,Joint Venture,"1307-19 유빌딩 1,2층",서울,11,KR,137-070,02-758-8081,GMT+09:00 Asia/Seoul,127.03,37.5
-Starbucks,34507-97433,용산역점,Joint Venture,40-1,서울,11,KR,140-013,02-2012-2907,GMT+09:00 Asia/Seoul,126.96,37.53
+Starbucks,34507-97433,용산역점,Joint Venture,Jan-40,서울,11,KR,140-013,02-2012-2907,GMT+09:00 Asia/Seoul,126.96,37.53
 Starbucks,32642-139908,황학캐슬점,Joint Venture,2198 이마트 1층,서울,11,KR,100-871,02-2048-5257,GMT+09:00 Asia/Seoul,127.02,37.57
 Starbucks,1555-152968,여의도의사당점,Joint Venture,13-19 남중빌딩,서울,11,KR,150-870,02-758-8348,GMT+09:00 Asia/Seoul,126.92,37.53
 Starbucks,31082-104657,구로에이스트윈타워점,Joint Venture,212-1 에이스트윈타워 103호,서울,11,KR,152-050,02-758-8161,GMT+09:00 Asia/Seoul,126.89,37.48
@@ -8438,7 +8438,7 @@ Starbucks,23705-232429,Yeonsan Jungangro,Joint Venture,1242-12 Yeonsan-dong Yeon
 Starbucks,48727-264706,Seomyeon NC,Joint Venture,"668-1, Jeonpo-dong, Busanjingu, Busan-si, 1",Busan-si,26,KR,,,GMT+09:00 Asia/Seoul,129.06,35.16
 Starbucks,18410-190844,Busan Dadaepo,Joint Venture,"1548-39 Dadae-dong, Saha-gu, Busan District",Sahagu,26,KR,604-827,,GMT+09:00 Asia/Seoul,128.96,35.05
 Starbucks,18437-190845,Busan Goejeong,Joint Venture,"961-2 Goejeong-dong, Saha-gu, Busan District",Sahagu,26,KR,604-811,,GMT+09:00 Asia/Seoul,128.99,35.1
-Starbucks,34498-96340,경성대점,Joint Venture,55-1,부산,26,KR,608-020,051-610-1898,GMT+09:00 Asia/Seoul,129.1,35.14
+Starbucks,34498-96340,경성대점,Joint Venture,Jan-55,부산,26,KR,608-020,051-610-1898,GMT+09:00 Asia/Seoul,129.1,35.14
 Starbucks,31558-109525,부산벡스코점,Joint Venture,1500 벡스코 내,부산,26,KR,612-020,051-742-2075,GMT+09:00 Asia/Seoul,129.14,35.17
 Starbucks,32216-131924,남천점,Joint Venture,3-35,부산,26,KR,152-050,051-621-9234,GMT+09:00 Asia/Seoul,129.11,35.15
 Starbucks,8081-139225,하단역점,Joint Venture,529-16 1층,부산,26,KR,604-020,051-271-8323,GMT+09:00 Asia/Seoul,128.97,35.11
@@ -8958,7 +8958,7 @@ Starbucks,1965-141504,진주경상대점,Joint Venture,492-5,경상남도,48,KR,
 Starbucks,32007-126386,거제오션백화점점,Joint Venture,고현리 958-15,경상남도,48,KR,656-801,055-680-0160,GMT+09:00 Asia/Seoul,128.62,34.89
 Starbucks,6035-149005,거제옥포점,Joint Venture,535-5,경상남도,48,KR,656-130,055-687-8308,GMT+09:00 Asia/Seoul,128.69,34.89
 Starbucks,32563-136556,창원시티세븐점,Joint Venture,1B1L 창원더시티세븐 지상1층 E1026,경상남도,48,KR,641-210,055-600-5348,GMT+09:00 Asia/Seoul,128.65,35.24
-Starbucks,32035-124204,창원상남동점,Joint Venture,6-1,경상남도,48,KR,641-010,055-263-8226,GMT+09:00 Asia/Seoul,128.68,35.22
+Starbucks,32035-124204,창원상남동점,Joint Venture,01-Jun,경상남도,48,KR,641-010,055-263-8226,GMT+09:00 Asia/Seoul,128.68,35.22
 Starbucks,31734-116646,신세계마산점,Joint Venture,10-3 신세계 백화점 내 지하 1층,경상남도,48,KR,631-480,055-240-1828,GMT+09:00 Asia/Seoul,128.59,35.22
 Starbucks,16634-173866,Sinjeju,Joint Venture,"273-42, Yeon-Dong",Jeiju,49,KR,690-814,,GMT+09:00 Asia/Seoul,126.49,33.49
 Starbucks,50095-272808,Jeju nohyeong park,Joint Venture,"711-2,nohyeong-dong,jeju-si, 1~2",jeju,49,KR,63086,,GMT+09:00 Asia/Seoul,126.48,33.48
@@ -9989,7 +9989,7 @@ Starbucks,48682-264566,Harmelen - Shell Den Hellevliet,Licensed,Rijksweg A12 1,H
 Starbucks,15052-157245,Utrecht NS Hoofdkantoor,Licensed,Laan van Puntenburg 100,Utrecht,UT,NL,3511 ER,,GMT+1:00 Europe/Amsterdam,5.11,52.09
 Starbucks,26024-243256,Starbucks Utrecht CS Jaarbeurszijde,Licensed,Stationstraverse 3,Utrecht,UT,NL,3511 CA,,GMT+1:00 Europe/Amsterdam,5.11,52.09
 Starbucks,4163-244066,Utrecht CS - Hoog Centraal,Licensed,Stationshal 6,Utrecht,UT,NL,3511 CE,,GMT+1:00 Europe/Amsterdam,5.11,52.09
-Starbucks,18903-195030,Hollandse Toren 97,Company Owned,"Hollandse Toren 97, Centrum District",Utrecht,UT,NL,3511 BN,310302381414,GMT+1:00 Europe/Amsterdam,5.11,52.09
+Starbucks,18903-195030,Hollandse Toren 97,Company Owned,"Hollandse Toren 97, Centrum District",Utrecht,UT,NL,3511 BN,3.10302E+11,GMT+1:00 Europe/Amsterdam,5.11,52.09
 Starbucks,24652-238586,Delft Station,Licensed,van leeuwenhoeksingel,Delft,ZH,NL,2611 AC,,GMT+1:00 Europe/Amsterdam,4.36,52.01
 Starbucks,12753-228553,Den Haag Central Station,Licensed,Koningin Julianaplein 10-15,Den Haag,ZH,NL,2595 AA,,GMT+1:00 Europe/Amsterdam,4.32,52.08
 Starbucks,24036-235244,Shell Station  Promenade,Licensed,Professor B.M.Teldersweg 4,Den Haag,ZH,NL,2585 JZ,,GMT+1:00 Europe/Amsterdam,4.29,52.1
@@ -11268,7 +11268,7 @@ Starbucks,18750-195031,Starbucks,Licensed,"3. Cad. No: 11 D: 5, Bahcelievler",An
 Starbucks,28745-250829,Bilkent Station,Licensed,"Universiteler Mh. Bilkent Bulvari, Bilkent Center,Cankaya",Ankara,6,TR,6800,,GMT+2:00 Asia/Istanbul,32.77,39.89
 Starbucks,48030-261144,YHT Bulvar,Licensed,"Anafartalar Mh. TCDD Isletmesi Genel, Mudurlugu Ankara Gari Altindag",Ankara,6,TR,633,,GMT+2:00 Asia/Istanbul,32.63,39.96
 Starbucks,19246-200064,Starbucks,Licensed,Mesrutiyet Mah. Karanfil Sok. No:20,Ankara,6,TR,6430,0 312 419 1480,GMT+2:00 Asia/Istanbul,32.86,39.92
-Starbucks,31075-103509,Starbucks,Licensed,"Akkopru Mevki Konya Devlet Yolu ANKAmall, Alisveris Merkezi No:2K:1 D: 1-05/1-05A",Ankara,6,TR,6900,903125412042,GMT+2:00 Asia/Istanbul,32.83,39.95
+Starbucks,31075-103509,Starbucks,Licensed,"Akkopru Mevki Konya Devlet Yolu ANKAmall, Alisveris Merkezi No:2K:1 D: 1-05/1-05A",Ankara,6,TR,6900,9.03125E+11,GMT+2:00 Asia/Istanbul,32.83,39.95
 Starbucks,29022-252171,PODIUM AVM,Licensed,"Macun Mah. Bagdat Cad., No: 60 Yenimahalle",Ankara,6,TR,6000,,GMT+2:00 Asia/Istanbul,32.76,39.96
 Starbucks,25036-239764,Starbucks,Licensed,"Kardelen Mah. Baskent Bulv. No: 224/H, Batikent",Ankara,6,TR,6370,,GMT+2:00 Asia/Istanbul,32.72,39.97
 Starbucks,19735-197184,Starbucks,Licensed,"Dumlupinar Bulv. Next Level No:3 K:Zemin, D:3B47",Ankara,6,TR,6330,,GMT+2:00 Asia/Istanbul,32.81,39.91
@@ -11278,7 +11278,7 @@ Starbucks,31890-114972,Cepa,Licensed,"Mustafa Kemal Mah Eskisehir Yolu 7. Km., 1
 Starbucks,1930-140186,Starbucks,Licensed,"Lodumlu Mah 2 Bolge Bilkent Parki Sitesi, Sosyal Tesis Ek Binasi BBlok No72 KGiris",Ankara,6,TR,6800,0 312 266 48 11,GMT+2:00 Asia/Istanbul,32.76,39.88
 Starbucks,32786-139653,Starbucks,Licensed,"Bahcelievler Mah. 54. Sok No:4/A, Besevler",Ankara,6,TR,6490,0312 223 78 34,GMT+2:00 Asia/Istanbul,32.83,39.93
 Starbucks,50077-272729,Yasamkent,Licensed,"Yasamkent Mah. 3222. cad., Cankaya",Ankara,6,TR,6810,,GMT+2:00 Asia/Istanbul,32.65,39.85
-Starbucks,30668-100315,Starbucks,Licensed,Ugur Mumcu Cd. No:84 D:6,Ankara,6,TR,6700,903124471150,GMT+2:00 Asia/Istanbul,32.88,39.9
+Starbucks,30668-100315,Starbucks,Licensed,Ugur Mumcu Cd. No:84 D:6,Ankara,6,TR,6700,9.03124E+11,GMT+2:00 Asia/Istanbul,32.88,39.9
 Starbucks,27074-246666,Besa Kule,Licensed,"Cukurambar Mah. 1480. Sok., No:2 Cankaya / Ankara",Ankara,6,TR,6510,,GMT+2:00 Asia/Istanbul,32.81,39.9
 Starbucks,14988-156844,Starbucks,Licensed,"Üniversiteler Mah. Orta Dogu Teknik Univ, Dumlupinar Galyum Blok TeknokentN37K:Zem",Ankara,6,TR,6800,0 312 210 13 37,GMT+2:00 Asia/Istanbul,32.77,39.9
 Starbucks,42514-96133,Starbucks,Licensed,"Eskisehir Yolu Armada Alisveris ve is, Merkezi No: 6 K: Zemin D: 35",Ankara,6,TR,6520,312 2191781,GMT+2:00 Asia/Istanbul,32.81,39.91
@@ -11323,13 +11323,13 @@ Starbucks,24881-239326,Starbucks,Licensed,"Orta Mah. Muze Bulvari No:1, Sanayi /
 Starbucks,31864-117946,Starbucks,Licensed,"Demirkapi Koyu Sose Maden Yolu Varan, Susurluk Dinlenme Tesisi No:8",Balikesir,10,TR,10600,0 266 874 32 30,GMT+2:00 Asia/Istanbul,28.12,39.83
 Starbucks,48721-264854,Novada Edremit,Licensed,"Canakkale Asfalti Uzeri Cad. Novada, Edremit Avm Z Blok Magaza NO:005 Edremit",Balikesir,10,TR,0,,GMT+2:00 Asia/Istanbul,26.98,39.6
 Starbucks,47028-256532,Akcay Yasa,Licensed,"Lale Cad. Otogar Karsisi, Yasa Outlet Avm Akcy Edremit",Balikesir,10,TR,10000,,GMT+2:00 Asia/Istanbul,27.61,39.67
-Starbucks,31191-104368,Starbucks,Licensed,"Balikesir Karayolu 10.Km.Festiva Outlet, Center K:Zemin",Susurluk,10,TR,10600,902668670055,GMT+2:00 Asia/Istanbul,28.14,39.84
+Starbucks,31191-104368,Starbucks,Licensed,"Balikesir Karayolu 10.Km.Festiva Outlet, Center K:Zemin",Susurluk,10,TR,10600,9.02669E+11,GMT+2:00 Asia/Istanbul,28.14,39.84
 Starbucks,48649-264125,Sarar Outlet Guney,Licensed,"Carsi mah.Hatun Cad., Yeni cevreyolu 3. km Bozuyuk",Bilecik,11,TR,0,,GMT+2:00 Asia/Istanbul,30.02,39.92
 Starbucks,48648-264124,Sarar Outlet Kuzey,Licensed,"Carsi mah.Hatun Cad., Yeni cevreyolu 3. km Bozuyuk",Bilecik,11,TR,0,,GMT+2:00 Asia/Istanbul,30.01,39.92
 Starbucks,28107-247536,Endulus Park,Licensed,"Ahmet Yesevi Mh. Sanayi Cd., No : 451 Balat, Nilufer",Bursa,16,TR,16140,,GMT+2:00 Asia/Istanbul,28.95,40.27
 Starbucks,24793-238948,Starbucks,Licensed,"Cumhuriyet Mah.Nilufer Hatun Cad. No:114, Nilufer",Bursa,16,TR,16140,,GMT+2:00 Asia/Istanbul,28.96,40.22
 Starbucks,24792-238949,Starbucks,Licensed,"FSM Bulvari Sumer Sk. No:1, Nilufer",Bursa,16,TR,16110,,GMT+2:00 Asia/Istanbul,29.04,40.2
-Starbucks,31019-102133,Starbucks,Licensed,"Odunluk Mah. Izmir Yolu Orhaneli Kavsagi, CarrefourSA K:Giris D:B05/B",Bursa,16,TR,,902244532076,GMT+2:00 Asia/Istanbul,29,40.21
+Starbucks,31019-102133,Starbucks,Licensed,"Odunluk Mah. Izmir Yolu Orhaneli Kavsagi, CarrefourSA K:Giris D:B05/B",Bursa,16,TR,,9.02245E+11,GMT+2:00 Asia/Istanbul,29,40.21
 Starbucks,31924-116727,Starbucks,Licensed,"Mudanya Yolu 9. Km. Korupark Alisveris, Merkezi No:2 K:Zemin D:42",Bursa,16,TR,16000,0 224 241 27 60,GMT+2:00 Asia/Istanbul,28.96,40.25
 Starbucks,24791-238947,Starbucks,Licensed,"Piremir Mah. Teferruc Istasyonu, Yildirim",Bursa,16,TR,16360,,GMT+2:00 Asia/Istanbul,29.06,40.18
 Starbucks,48716-264856,Bursa Balat,Licensed,"Ahmet Yesevi Mah. Balat Cad., No:2 Nilufer Bursa",Bursa,16,TR,0,,GMT+2:00 Asia/Istanbul,28.94,40.27
@@ -11338,7 +11338,7 @@ Starbucks,27402-247535,Ardic Park,Licensed,"Ertugrul Mh. Ahmet Taner Kislali Bul
 Starbucks,19465-201885,Starbucks,Licensed,"Ihsaniye Mah. Fatih Sultan Mehmet Bulv., No: 58/A-B D: 15-16",Bursa,16,TR,16000,,GMT+2:00 Asia/Istanbul,28.98,40.22
 Starbucks,31687-110807,Starbucks,Licensed,"Kukurtlu Mah. Kukurtlu Cad. Hande, Apt. No:63/E-D",Bursa,16,TR,16080,0224 233 39 55,GMT+2:00 Asia/Istanbul,29.03,40.2
 Starbucks,20117-203437,Starbucks,Licensed,"Sakarya Mah. Atatürk Cad. Gorukle Trio, Yasam Merkezi No:101 D:B08",Bursa,16,TR,16285,,GMT+2:00 Asia/Istanbul,28.85,40.22
-Starbucks,30769-100733,Starbucks,Licensed,"Sehrekustu Mah Cemal Nadir Cad Zafer Plz, Alisveris ve Yasam Merk No:22-28 K:1D:11",Osmangazi,16,TR,16040,902242200046,GMT+2:00 Asia/Istanbul,29.06,40.19
+Starbucks,30769-100733,Starbucks,Licensed,"Sehrekustu Mah Cemal Nadir Cad Zafer Plz, Alisveris ve Yasam Merk No:22-28 K:1D:11",Osmangazi,16,TR,16040,9.02242E+11,GMT+2:00 Asia/Istanbul,29.06,40.19
 Starbucks,47026-256533,Troy Park,Licensed,"Barbaros Mah.Troya Cad., No:2",Canakkale,17,TR,,,GMT+2:00 Asia/Istanbul,26.41,40.13
 Starbucks,47025-256534,Canakkale Kordon,Licensed,"Kayserili Ahmet Pasa Cad., Kordonboyu No:32 Akol Hotel",Canakkale,17,TR,17100,,GMT+2:00 Asia/Istanbul,26.41,40.16
 Starbucks,47155-256538,Aquamall,Licensed,"Izmir Asfalti Uzeri 5. Km Kayalar mah., Ceylan Karavil Park",Denizli,20,TR,,,GMT+2:00 Asia/Istanbul,29.05,37.83
@@ -11375,7 +11375,7 @@ Starbucks,25407-240950,Starbucks,Licensed,"Barbaros Mah. Gelincik Sk. No:4, Bulv
 Starbucks,42519-213584,Starbucks,Licensed,"Tugay Yolu Maltepe Carrefour AVM, No. 73 Magaza no :80 Maltepe",Istanbul,34,TR,,0 216 515 15 85,GMT+2:00 Asia/Istanbul,29.16,40.92
 Starbucks,48551-263686,Palladium Reserve,Licensed,"Barbaros mah. Halk caddesi 8 /B, Atasehir Kadikoy",Istanbul,34,TR,0,,GMT+2:00 Asia/Istanbul,29.1,40.99
 Starbucks,32284-132204,Starbucks,Licensed,"Buyukdere Cad. Astoria Alisveris Merkezi, No: 127 K: Zemin D: 13",Istanbul,34,TR,34394,212 2152245,GMT+2:00 Europe/Istanbul,29.01,41.07
-Starbucks,42505-94049,Starbucks,Licensed,"Senlik Mah. Yesilkoy Asfalti Harman Sok., Flyinn Alisveris Yasam Merk.No:48 K:1D73",Istanbul,34,TR,34153,902125732348,GMT+2:00 Europe/Istanbul,28.8,40.97
+Starbucks,42505-94049,Starbucks,Licensed,"Senlik Mah. Yesilkoy Asfalti Harman Sok., Flyinn Alisveris Yasam Merk.No:48 K:1D73",Istanbul,34,TR,34153,9.02126E+11,GMT+2:00 Europe/Istanbul,28.8,40.97
 Starbucks,26852-245868,Kemerkoy,Licensed,"Gokturk Merkez Mahallesi, Kemerkoy Sitesi No:74/1-D Gokturk",Istanbul,34,TR,34075,,GMT+2:00 Asia/Istanbul,29.09,41.14
 Starbucks,17457-182124,Starbucks,Licensed,Mecidiye Mah. Degirmen Sok. No:16,Istanbul,34,TR,34400,,GMT+2:00 Asia/Istanbul,29.03,41.05
 Starbucks,27401-247537,Rings Avm,Licensed,"Akpinar Mah. Kanuni Cad., No:6",Istanbul,34,TR,34885,,GMT+2:00 Asia/Istanbul,29.24,40.97
@@ -11387,7 +11387,7 @@ Starbucks,47366-256224,Modern East,Licensed,"Inkilap Mah. Kucuksu Caddesi, Umran
 Starbucks,31322-105331,Starbucks,Licensed,"Sahkulu Mah. Istikal Cad No. 469-471, Zemin-Asma Kat Beyoglu",Istanbul,34,TR,34421,0 212 292 11 07,GMT+2:00 Europe/Istanbul,28.98,41.03
 Starbucks,30952-101377,Starbucks,Licensed,"Ataturk Havalimani, Yesilkoy",Istanbul,34,TR,34149,212 4650977,GMT+2:00 Europe/Istanbul,28.82,40.98
 Starbucks,29826-255550,Capitol Cinema,Licensed,"Mahir lz Caddesi No 4, Altunizade/Uskudar/Istanbul",Istanbul,34,TR,34662,,GMT+2:00 Asia/Istanbul,29.09,41.02
-Starbucks,30872-101240,Starbucks,Licensed,"Incirli Cad. Town Center, No:11 K:Giris D:208",Istanbul,34,TR,34147,902125715250,GMT+2:00 Europe/Istanbul,28.87,40.98
+Starbucks,30872-101240,Starbucks,Licensed,"Incirli Cad. Town Center, No:11 K:Giris D:208",Istanbul,34,TR,34147,9.02126E+11,GMT+2:00 Europe/Istanbul,28.87,40.98
 Starbucks,1353-138847,Starbucks,Licensed,4. Levent Sabanci Center Kule 2 K:Bodrum,Istanbul,34,TR,34430,0212 325 85 89,GMT+2:00 Europe/Istanbul,29.01,41.09
 Starbucks,31432-107165,Starbucks,Licensed,"Goztepe Mah. Bagdat Cad. Alemdar, APt. No:237 D:2",Istanbul,34,TR,34730,0 216 355 30 57,GMT+2:00 Asia/Istanbul,29.06,40.97
 Starbucks,15092-157525,Starbucks,Licensed,"Buyukdere Cad. Istanbul Cevahir Alisveri, ve Eglence Merkezi No:22 D:2",Istanbul,34,TR,34381,0 212 380 1137,GMT+2:00 Europe/Istanbul,28.99,41.06
@@ -11399,9 +11399,9 @@ Starbucks,7100-150464,Starbucks,Licensed,"Kemerdere Mevkii Baraj Yolu Cad. Eltes
 Starbucks,23313-228984,Starbucks,Licensed,Sanayi Mh,Istanbul,34,TR,34906,,GMT+2:00 Asia/Istanbul,29.27,40.9
 Starbucks,32127-107321,Starbucks,Licensed,"Derekoy Mevkii Suzer Bulv. 3. Cad., Sehr-i Bazaar Alisveris Merk G Blok D:11",Istanbul,34,TR,34555,0 212 669 82 36,GMT+2:00 Europe/Istanbul,28.69,41.06
 Starbucks,47810-259867,Suadiye No 471,Licensed,"Bagdat Cad. No 471/3, Suadiye Kadikoy Istanbul",Istanbul,34,TR,0,,GMT+2:00 Asia/Istanbul,29.08,40.96
-Starbucks,3167-145128,Starbucks,Licensed,"Unalan Mah. Ayazma Cad. Koc Ls Merkezi, B Blok No:11",Istanbul,34,TR,34718,902164541560,GMT+2:00 Asia/Istanbul,29.07,41
+Starbucks,3167-145128,Starbucks,Licensed,"Unalan Mah. Ayazma Cad. Koc Ls Merkezi, B Blok No:11",Istanbul,34,TR,34718,9.02165E+11,GMT+2:00 Asia/Istanbul,29.07,41
 Starbucks,32027-122054,Starbucks,Licensed,"Meclisi Mebusan Cad. CBS Is Hani No:47, Findikli Beyoglu",Istanbul,34,TR,34398,0 212 292 34 75,GMT+2:00 Europe/Istanbul,28.99,41.03
-Starbucks,30873-102073,Starbucks,Licensed,"Sair Orhan Veli Sok. Omur Plaza No:22, K:Zemin D:3",Istanbul,34,TR,34200,902125541699,GMT+2:00 Europe/Istanbul,28.88,41.01
+Starbucks,30873-102073,Starbucks,Licensed,"Sair Orhan Veli Sok. Omur Plaza No:22, K:Zemin D:3",Istanbul,34,TR,34200,9.02126E+11,GMT+2:00 Europe/Istanbul,28.88,41.01
 Starbucks,42510-95167,Starbucks,Licensed,"Cemal Sahir Cad. Profilo Alisveris, Merkezi No:33 K:Zemin D:49",Istanbul,34,TR,34387,0 212 266 06 61,GMT+2:00 Europe/Istanbul,29,41.07
 Starbucks,31242-105129,Starbucks,Licensed,"Barbaros Bulv. Yildiz ls Hani, No:7 K:Giris",Istanbul,34,TR,34200,0 212 259 08 98,GMT+2:00 Europe/Istanbul,29.01,41.04
 Starbucks,18597-192704,Starbucks,Licensed,Merkez Mah. Ayazma Yolu Cad. No: 37,Istanbul,34,TR,34400,,GMT+2:00 Europe/Istanbul,28.98,41.08
@@ -11432,7 +11432,7 @@ Starbucks,48656-264347,Atakoy Marina,Licensed,"Atakoy 1. Mah. Atakoy Marina, Bak
 Starbucks,3159-142328,Starbucks,Licensed,"3 Nolu Bagimsiz Bolum Taksim Meydani, Taki Zafer Cad.",Istanbul,34,TR,34437,0 212 293 79 09,GMT+2:00 Europe/Istanbul,28.99,41.04
 Starbucks,28929-251910,Kurtkoy TEM,Licensed,"Anadolu Otoyolu Mehmetcik Vakfi, Dinlenme Tesisi Opet Tuzla , Pendik",Istanbul,34,TR,,,GMT+2:00 Asia/Istanbul,29.27,40.97
 Starbucks,29827-255549,Akaretler,Licensed,"Sair Nedim Cad. No 5, Besiktas Istanbul",Istanbul,34,TR,,,GMT+2:00 Europe/Istanbul,29,41.04
-Starbucks,30729-100731,Starbucks,Licensed,"Buyukdere Cad. Istanbul Cevahir Alisveri, ve Eglence Merkezi No:22 K:2 D:89/B",Istanbul,34,TR,34394,902123800141,GMT+2:00 Europe/Istanbul,28.99,41.06
+Starbucks,30729-100731,Starbucks,Licensed,"Buyukdere Cad. Istanbul Cevahir Alisveri, ve Eglence Merkezi No:22 K:2 D:89/B",Istanbul,34,TR,34394,9.02124E+11,GMT+2:00 Europe/Istanbul,28.99,41.06
 Starbucks,15922-165245,Starbucks,Licensed,"Sanayi Mah. 1655. Sok. Akbati Alisveris, ve Yasam Merkezi No: 6 K: 1 D: 64",Istanbul,34,TR,34517,212 3977061,GMT+2:00 Europe/Istanbul,28.67,41.06
 Starbucks,48592-263945,MOI Debenhams,Licensed,"Ziya Gokalp Mah. Suleyman Demirel BLv., Mall of Istanbul  Mahmutbey Basaksehir",Istanbul,34,TR,0,,GMT+2:00 Europe/Istanbul,28.81,41.06
 Starbucks,23050-226485,Starbucks,Licensed,"Esentepe Mah. Büyükdere Cad, No: 181 Özdilek Park AVM  (Mağaza No: Z0-K024B /K024C ) 1. Levent / İst.",Istanbul,34,TR,34394,,GMT+2:00 Europe/Istanbul,29.01,41.08
@@ -11461,7 +11461,7 @@ Starbucks,20266-204547,Starbucks,Licensed,Ataturk Mah. Atasehir Bulv. 3 Cad. No:
 Starbucks,42504-230705,Starbucks,Licensed,"Nispetiye Cad Akmerkez Alisveris, Merkezi No: 56 K: -1 D: 191",Istanbul,34,TR,34337,212 2821636,GMT+2:00 Europe/Istanbul,29.04,41.08
 Starbucks,1931-141884,Starbucks,Licensed,"Istiklal Sok. Optimum Outlet No:10/4, K:Zemin D:61",Istanbul,34,TR,34909,0 216 664 11 27,GMT+2:00 Asia/Istanbul,29.09,40.99
 Starbucks,22956-226484,Starbucks,Licensed,"Necip Fazıl Mh. Mabeyn Caddesi,, No: 3-a, zemin kat  mağaza no: 59",Istanbul,34,TR,34773,,GMT+2:00 Asia/Istanbul,29.18,41.02
-Starbucks,3160-142688,Starbucks,Licensed,"Kocatepe Mah. Sehir Parki Cad. 123 Sok., Forum Istanbul K:Zemin D:179",Istanbul,34,TR,34045,902126400822,GMT+2:00 Europe/Istanbul,28.9,41.05
+Starbucks,3160-142688,Starbucks,Licensed,"Kocatepe Mah. Sehir Parki Cad. 123 Sok., Forum Istanbul K:Zemin D:179",Istanbul,34,TR,34045,9.02126E+11,GMT+2:00 Europe/Istanbul,28.9,41.05
 Starbucks,47499-258590,Altunizade Opet,Licensed,"Mahir Iz Cd. Altunizade Mh., Opet Gas Station Uskudar",Istanbul,34,TR,,,GMT+2:00 Asia/Istanbul,29.04,41.02
 Starbucks,31103-103481,Starbucks,Licensed,"Buyukdere Cad. Levent Kanyon Alisveris, Merkezi No:185 K:B2 D:185",Istanbul,34,TR,34430,0 212 353 06 26,GMT+2:00 Europe/Istanbul,29.01,41.08
 Starbucks,19975-201889,Starbucks,Licensed,"Ziya Gokalp Mah. Suleyman Demirel Bulv., Mall of Istanbul K: Giris D: 309",Istanbul,34,TR,34490,,GMT+2:00 Europe/Istanbul,28.81,41.06
@@ -11472,7 +11472,7 @@ Starbucks,50078-272728,Beykent 53,Licensed,"Adnan Kahveci Mah. Yavuz Sultan, Sel
 Starbucks,31521-107344,Starbucks,Licensed,Alemdar Mah. Divanyolu Cad. No:76/A,Istanbul,34,TR,34110,0212 527 24 19,GMT+2:00 Europe/Istanbul,28.97,41.01
 Starbucks,32324-124664,Starbucks,Licensed,"Yildiz Posta Cad. Sisik Apt. No:44 D:3, Gayrettepe",Istanbul,34,TR,34349,0 212 288 67 29,GMT+2:00 Europe/Istanbul,29.01,41.06
 Starbucks,42502-84521,Starbucks,Licensed,"Acibadem Mah. Fatih Cad. Tepe Nautilus, Alisveris Merkezi No:1 K:Giris D:41",Istanbul,34,TR,34718,0 216 428 75 73,GMT+2:00 Asia/Istanbul,29.03,41
-Starbucks,42506-93791,Starbucks,Licensed,"Mahir lz Cad. Capitol Alisveris ve, Eglence Merkezi No:3 K:1 D:42-60",Istanbul,34,TR,34662,902164741030,GMT+2:00 Asia/Istanbul,29.04,41.02
+Starbucks,42506-93791,Starbucks,Licensed,"Mahir lz Cad. Capitol Alisveris ve, Eglence Merkezi No:3 K:1 D:42-60",Istanbul,34,TR,34662,9.02165E+11,GMT+2:00 Asia/Istanbul,29.04,41.02
 Starbucks,48172-261864,Maltepe Ofispark,Licensed,"Altaycesme Mah Zuhal Sokak No 23, Maltepe",Istanbul,34,TR,0,,GMT+2:00 Asia/Istanbul,29.13,40.94
 Starbucks,17976-187404,Starbucks,Licensed,"Resitpasa Mah. Eski Buyukdere Cad., No:8 K:Zemin",Istanbul,34,TR,34200,,GMT+2:00 Europe/Istanbul,29.02,41.11
 Starbucks,13170-154965,Starbucks,Licensed,"Ataturk Havalimani D: DAD/136, Yesilkoy",Istanbul,34,TR,34149,212 4650125,GMT+2:00 Europe/Istanbul,28.82,40.98
@@ -11495,7 +11495,7 @@ Starbucks,20638-207124,Starbucks,Licensed,"Dudullu Yolu Cad, No: 25-27 K: Zemin"
 Starbucks,47203-257207,Memorial Hospital Atasehir,Licensed,"Vedat Gunyol St. NO:28, Atasehir",Istanbul,34,TR,,,GMT+2:00 Asia/Istanbul,29.11,40.99
 Starbucks,31628-227144,Starbucks,Licensed,"Caddebostan Iskele Yolu, Camli Apt., No. 25 D:1-2",Istanbul,34,TR,34278,,GMT+2:00 Asia/Istanbul,29.07,40.96
 Starbucks,15541-162572,Starbucks,Licensed,"Acarlar Mah. Polonez Baglanti Yolu, Kamer Cikmazi acr Loft No: 2 D: 28",Istanbul,34,TR,34805,216 6807055,GMT+2:00 Asia/Istanbul,29.11,41.11
-Starbucks,31465-106826,Starbucks,Licensed,"Yesilkoy Mah. Ataturk Cad Istanbul Dunya, Ticaret Merkezi K: Zemin D: 57-58-59",Istanbul,34,TR,34149,902124657080,GMT+2:00 Europe/Istanbul,28.83,40.99
+Starbucks,31465-106826,Starbucks,Licensed,"Yesilkoy Mah. Ataturk Cad Istanbul Dunya, Ticaret Merkezi K: Zemin D: 57-58-59",Istanbul,34,TR,34149,9.02125E+11,GMT+2:00 Europe/Istanbul,28.83,40.99
 Starbucks,1927-141585,Starbucks,Licensed,"Harbiye Mah. Cumhuriyet Cad., Dag Apt. No:34 K:Zemin",Istanbul,34,TR,34367,0 212 231 79 45,GMT+2:00 Europe/Istanbul,28.99,41.04
 Starbucks,15825-165246,Starbucks,Licensed,"Saadetdere Mah. 68. Sok. Torium, No:50 K:4 D:263",Istanbul,34,TR,34513,0 212 596 32 66,GMT+2:00 Europe/Istanbul,28.69,41
 Starbucks,15539-162571,Starbucks,Licensed,"Yali Mah. 23 Nisan Cad. No:2, Buyukada",Istanbul,34,TR,34970,,GMT+2:00 Asia/Istanbul,29.13,40.87
@@ -11514,7 +11514,7 @@ Starbucks,20269-204546,Starbucks,Licensed,"Yorganci Ciftligi Mevki Ormanada Site
 Starbucks,32279-113285,Starbucks,Licensed,"Tesvikiye Mah. Tesvikiye Cad., No:162 K:1 D:108 Nisantasi Istanbul",Istanbul - Avrupa,34,TR,34365,0212 373 19 41,GMT+2:00 Europe/Istanbul,28.99,41.05
 Starbucks,16224-169804,Starbucks,Licensed,"Bahcesehir Universitesi C Kampus Ciragan, Cad: Osman Pasa Mketebi Sok. No:4 D:6",Istanbul - Avrupa,34,TR,34200,0212 327 49 97,GMT+2:00 Europe/Istanbul,29.01,41.04
 Starbucks,16015-167505,Starbucks,Licensed,"1. Kisim Rauf Orbay Cad. Bakirkoy Sahil, Yolu Galleria Alisveris Merk. No:6 D:2/A",Istanbul - Avrupa,34,TR,34158,0.212.559 44 43,GMT+2:00 Europe/Istanbul,28.87,40.97
-Starbucks,3162-142686,Starbucks,Licensed,"Kocatepe Mah. Sehir Parki Cad. 12 Sok., Forum Istanbul K:Giris D:90-91",Istanbul - Avrupa,34,TR,34045,902126400188,GMT+2:00 Europe/Istanbul,28.9,41.05
+Starbucks,3162-142686,Starbucks,Licensed,"Kocatepe Mah. Sehir Parki Cad. 12 Sok., Forum Istanbul K:Giris D:90-91",Istanbul - Avrupa,34,TR,34045,9.02126E+11,GMT+2:00 Europe/Istanbul,28.9,41.05
 Starbucks,31412-107164,Starbucks,Licensed,"9. ve 10. Kisim Istanbul Kultur, Universitesi D-100 Yanyol K:-1",Istanbul - Avrupa,34,TR,34158,0 212 465 83 68,GMT+2:00 Europe/Istanbul,28.83,40.99
 Starbucks,20074-201890,Starbucks,Licensed,"Levazim Mah. Barbaros Bulv. Zorlu Center, No: 1 K: -2 D: B2022",Istanbul - Avrupa,34,TR,34340,,GMT+2:00 Europe/Istanbul,29.02,41.07
 Starbucks,1907-143805,Starbucks,Licensed,"Kadir Has Üniversitesi Kadir Has Cad., D Blok Hol K: Zemin",Istanbul - Avrupa,34,TR,34091,0 212 524 00 68,GMT+2:00 Europe/Istanbul,28.96,41.02
@@ -11531,7 +11531,7 @@ Starbucks,21651-213845,Starbucks,Licensed,"Izmir Ekonomi Universitesi Sakarya, C
 Starbucks,27674-248387,Mavi Bahce,Licensed,"Cahar Dudayev Bulvari Mavisehir Mh., 2040/4. Sok. Karsiyaka",Izmir,35,TR,35340,,GMT+2:00 Asia/Istanbul,27.08,38.48
 Starbucks,31066-103945,Starbucks,Licensed,"Yeni Havaalani Cad. Kipa Alisveris, Merkezi No:40 K:Zemin D:42",Izmir,35,TR,35640,0 232 329 01 06,GMT+2:00 Asia/Istanbul,27.06,38.48
 Starbucks,32230-128344,Starbucks,Licensed,Cumhuriyet Blv. No 94/A,Izmir,35,TR,35220,0232 441 26 10,GMT+2:00 Asia/Istanbul,27.13,38.43
-Starbucks,31339-104754,Starbucks,Licensed,"Kazim Dirik Mah. 372. Sok. Forum Bornova, B Blok no:10 k:Zemin D:BB016",Izmir,35,TR,35100,902323731937,GMT+2:00 Asia/Istanbul,27.21,38.45
+Starbucks,31339-104754,Starbucks,Licensed,"Kazim Dirik Mah. 372. Sok. Forum Bornova, B Blok no:10 k:Zemin D:BB016",Izmir,35,TR,35100,9.02324E+11,GMT+2:00 Asia/Istanbul,27.21,38.45
 Starbucks,22377-220525,Starbucks,Licensed,"Kibris Sehitleri Cad. No: 179 B-C, Konak/Alsancak",Izmir,35,TR,35220,,GMT+2:00 Asia/Istanbul,27.14,38.44
 Starbucks,31067-103944,Starbucks,Licensed,"Mithat Pasa Cad. Agora Alisveris, Merkezi No:1446 K:Zemin D:B013",Izmir,35,TR,35330,232 2783979,GMT+2:00 Asia/Istanbul,27.05,38.39
 Starbucks,31723-112824,Starbucks,Licensed,"Mithat Pasa Cad. Kipa Alisveris Merkezi, No:1462 K:Zemin D:Z-39",Izmir,35,TR,35340,0232 259 34 16,GMT+2:00 Asia/Istanbul,27.04,38.39
@@ -25043,7 +25043,7 @@ Starbucks,3272-1807,Highland Marketplace,Company Owned,"4710 NE 4th St, C105",Re
 Starbucks,76859-111805,Target Renton T-2290,Licensed,1215 Landing Way,Renton,WA,US,980575521,425-207-0067,GMT-08:00 America/Los_Angeles,-122.2,47.5
 Starbucks,10476-95011,Gage & Keene Rd,Company Owned,698 Gage Blvd,Richland,WA,US,993529512,509-628-1457,GMT-08:00 America/Los_Angeles,-119.27,46.23
 Starbucks,76865-118484,Target Richland T-2314,Licensed,2941 Queensgate Dr,Richland,WA,US,993529101,509-943-2763,GMT-08:00 America/Los_Angeles,-119.31,46.26
-Starbucks,3206-12,George Washington Wy & McMurray,Company Owned,"1759 George Washington Way, Ste B-8",Richland,WA,US,993542303,(509) 943-0820,GMT-08:00 America/Los_Angeles,-119.28,46.3
+Starbucks,Dec-06,George Washington Wy & McMurray,Company Owned,"1759 George Washington Way, Ste B-8",Richland,WA,US,993542303,(509) 943-0820,GMT-08:00 America/Los_Angeles,-119.28,46.3
 Starbucks,74769-97828,Safeway-Richland #333,Licensed,1803 George Washington Way,Richland,WA,US,993542305,509-946-9605,GMT-08:00 America/Los_Angeles,-119.28,46.3
 Starbucks,8936-94998,59 Columbia Pt Drive,Company Owned,59 Columbia Point Drive,Richland,WA,US,993524375,509-946-9073,GMT-08:00 America/Los_Angeles,-119.27,46.26
 Starbucks,73682-99504,Albertsons - Richland #252,Licensed,140 W Gage,Richland,WA,US,993528916,509-627-4714,GMT-08:00 America/Los_Angeles,-119.27,46.23
@@ -25110,7 +25110,7 @@ Starbucks,3302-12330,MLK Way,Company Owned,2921 Martin Luther King Jr. Wy,Seattl
 Starbucks,305-71,University Way,Company Owned,4555 University Wy NE,Seattle,WA,US,981054510,(206) 634-1390,GMT-08:00 America/Los_Angeles,-122.31,47.66
 Starbucks,3281-6226,E. Olive Way,Company Owned,1600 E Olive Wy,Seattle,WA,US,981025613,206-568-5185,GMT-08:00 America/Los_Angeles,-122.32,47.62
 Starbucks,20088-202265,University Village South,Company Owned,"2617 NE 46th St, (new address is across the street)",Seattle,WA,US,98105,206-523-1718,GMT-08:00 America/Los_Angeles,-122.3,47.66
-Starbucks,3202-6,California & Fauntleroy,Company Owned,6501 California Ave,Seattle,WA,US,981361899,(206) 938-6371,GMT-08:00 America/Los_Angeles,-122.39,47.54
+Starbucks,Jun-02,California & Fauntleroy,Company Owned,6501 California Ave,Seattle,WA,US,981361899,(206) 938-6371,GMT-08:00 America/Los_Angeles,-122.39,47.54
 Starbucks,72576-108242,QFC-Seattle #805 (Manhattan),Licensed,17847 1st Ave S,Seattle,WA,US,981481728,206-243-9340,GMT-08:00 America/Los_Angeles,-122.34,47.44
 Starbucks,24837-236918,The Junction - California & Alaska,Company Owned,4233 SW Alaska St.,Seattle,WA,US,98116,2066593373,GMT-08:00 America/Los_Angeles,-122.39,47.56
 Starbucks,5076-148145,Safeway - Seattle #1993,Licensed,2201 E Madison,Seattle,WA,US,981125336,206-494-1518,GMT-08:00 America/Los_Angeles,-122.3,47.62
@@ -25171,7 +25171,7 @@ Starbucks,3237-867,Northgate Mall,Company Owned,401 NE Northgate Way,Seattle,WA,
 Starbucks,308-73,Oak Tree,Company Owned,10002 Aurora Avenue North,Seattle,WA,US,981339347,(206) 524-6122,GMT-08:00 America/Los_Angeles,-122.34,47.7
 Starbucks,389-7,Greenlake,Company Owned,"7100 E Greenlake Drive N, Westlake Center Mall",Seattle,WA,US,981155415,(206) 523-9594,GMT-08:00 America/Los_Angeles,-122.33,47.68
 Starbucks,3343-30035,Westlake Center,Company Owned,"400 Pine Street, Suite #042",Seattle,WA,US,98101,206-652-0801,GMT-08:00 America/Los_Angeles,-122.34,47.61
-Starbucks,3204-3,Seattle Center,Company Owned,"305 Harrison Street, Suite 220, Colman Building",Seattle,WA,US,981094623,(206) 728-4077,GMT-08:00 America/Los_Angeles,-122.35,47.62
+Starbucks,Mar-04,Seattle Center,Company Owned,"305 Harrison Street, Suite 220, Colman Building",Seattle,WA,US,981094623,(206) 728-4077,GMT-08:00 America/Los_Angeles,-122.35,47.62
 Starbucks,3391-15573,1st & Marion,Company Owned,823 First Ave,Seattle,WA,US,981041404,206/340-9184,GMT-08:00 America/Los_Angeles,-122.34,47.6
 Starbucks,3346-32539,Holman Road,Company Owned,9999 Holman Rd NW,Seattle,WA,US,981172041,206-783-8104,GMT-08:00 America/Los_Angeles,-122.36,47.7
 Starbucks,72922-95925,QFC Harvard Market #847,Licensed,1401 Broadway,Seattle,WA,US,981223854,260-860-3818,GMT-08:00 America/Los_Angeles,-122.32,47.61
